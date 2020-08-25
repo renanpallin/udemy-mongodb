@@ -1,0 +1,10816 @@
+[
+  {
+    "_id": 1,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Bulbasaur",
+    "legendary": false,
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 2,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Ivysaur",
+    "legendary": false,
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Venusaur",
+    "legendary": false,
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 4,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Mega Venusaur",
+    "legendary": false,
+    "hp": 80,
+    "attack": 100,
+    "defense": 123,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 5,
+    "types": [
+      "Fire"
+    ],
+    "name": "Charmander",
+    "legendary": false,
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "speed": 65,
+    "generation": 1
+  },
+  {
+    "_id": 6,
+    "types": [
+      "Fire"
+    ],
+    "name": "Charmeleon",
+    "legendary": false,
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 7,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "name": "Charizard",
+    "legendary": false,
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 8,
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "name": "Mega Charizard X",
+    "legendary": false,
+    "hp": 78,
+    "attack": 130,
+    "defense": 111,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 9,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "name": "Mega Charizard Y",
+    "legendary": false,
+    "hp": 78,
+    "attack": 104,
+    "defense": 78,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 10,
+    "types": [
+      "Water"
+    ],
+    "name": "Squirtle",
+    "legendary": false,
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "speed": 43,
+    "generation": 1
+  },
+  {
+    "_id": 11,
+    "types": [
+      "Water"
+    ],
+    "name": "Wartortle",
+    "legendary": false,
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "speed": 58,
+    "generation": 1
+  },
+  {
+    "_id": 12,
+    "types": [
+      "Water"
+    ],
+    "name": "Blastoise",
+    "legendary": false,
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "speed": 78,
+    "generation": 1
+  },
+  {
+    "_id": 13,
+    "types": [
+      "Water"
+    ],
+    "name": "Mega Blastoise",
+    "legendary": false,
+    "hp": 79,
+    "attack": 103,
+    "defense": 120,
+    "speed": 78,
+    "generation": 1
+  },
+  {
+    "_id": 14,
+    "types": [
+      "Bug"
+    ],
+    "name": "Caterpie",
+    "legendary": false,
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 15,
+    "types": [
+      "Bug"
+    ],
+    "name": "Metapod",
+    "legendary": false,
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 16,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Butterfree",
+    "legendary": false,
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 17,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Weedle",
+    "legendary": false,
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 18,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Kakuna",
+    "legendary": false,
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 19,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Beedrill",
+    "legendary": false,
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "speed": 75,
+    "generation": 1
+  },
+  {
+    "_id": 20,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Mega Beedrill",
+    "legendary": false,
+    "hp": 65,
+    "attack": 150,
+    "defense": 40,
+    "speed": 145,
+    "generation": 1
+  },
+  {
+    "_id": 21,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Pidgey",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "speed": 56,
+    "generation": 1
+  },
+  {
+    "_id": 22,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Pidgeotto",
+    "legendary": false,
+    "hp": 63,
+    "attack": 60,
+    "defense": 55,
+    "speed": 71,
+    "generation": 1
+  },
+  {
+    "_id": 23,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Pidgeot",
+    "legendary": false,
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "speed": 101,
+    "generation": 1
+  },
+  {
+    "_id": 24,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Mega Pidgeot",
+    "legendary": false,
+    "hp": 83,
+    "attack": 80,
+    "defense": 80,
+    "speed": 121,
+    "generation": 1
+  },
+  {
+    "_id": 25,
+    "types": [
+      "Normal"
+    ],
+    "name": "Rattata",
+    "legendary": false,
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "speed": 72,
+    "generation": 1
+  },
+  {
+    "_id": 26,
+    "types": [
+      "Normal"
+    ],
+    "name": "Raticate",
+    "legendary": false,
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "speed": 97,
+    "generation": 1
+  },
+  {
+    "_id": 27,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Spearow",
+    "legendary": false,
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 28,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Fearow",
+    "legendary": false,
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 29,
+    "types": [
+      "Poison"
+    ],
+    "name": "Ekans",
+    "legendary": false,
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 30,
+    "types": [
+      "Poison"
+    ],
+    "name": "Arbok",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 31,
+    "types": [
+      "Electric"
+    ],
+    "name": "Pikachu",
+    "legendary": false,
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 32,
+    "types": [
+      "Electric"
+    ],
+    "name": "Raichu",
+    "legendary": false,
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "speed": 110,
+    "generation": 1
+  },
+  {
+    "_id": 33,
+    "types": [
+      "Ground"
+    ],
+    "name": "Sandshrew",
+    "legendary": false,
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 34,
+    "types": [
+      "Ground"
+    ],
+    "name": "Sandslash",
+    "legendary": false,
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "speed": 65,
+    "generation": 1
+  },
+  {
+    "_id": 35,
+    "types": [
+      "Poison"
+    ],
+    "name": "Nidoran\u2640",
+    "legendary": false,
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "speed": 41,
+    "generation": 1
+  },
+  {
+    "_id": 36,
+    "types": [
+      "Poison"
+    ],
+    "name": "Nidorina",
+    "legendary": false,
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "speed": 56,
+    "generation": 1
+  },
+  {
+    "_id": 37,
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "name": "Nidoqueen",
+    "legendary": false,
+    "hp": 90,
+    "attack": 92,
+    "defense": 87,
+    "speed": 76,
+    "generation": 1
+  },
+  {
+    "_id": 38,
+    "types": [
+      "Poison"
+    ],
+    "name": "Nidoran\u2642",
+    "legendary": false,
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 39,
+    "types": [
+      "Poison"
+    ],
+    "name": "Nidorino",
+    "legendary": false,
+    "hp": 61,
+    "attack": 72,
+    "defense": 57,
+    "speed": 65,
+    "generation": 1
+  },
+  {
+    "_id": 40,
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "name": "Nidoking",
+    "legendary": false,
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "speed": 85,
+    "generation": 1
+  },
+  {
+    "_id": 41,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Clefairy",
+    "legendary": false,
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 42,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Clefable",
+    "legendary": false,
+    "hp": 95,
+    "attack": 70,
+    "defense": 73,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 43,
+    "types": [
+      "Fire"
+    ],
+    "name": "Vulpix",
+    "legendary": false,
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "speed": 65,
+    "generation": 1
+  },
+  {
+    "_id": 44,
+    "types": [
+      "Fire"
+    ],
+    "name": "Ninetales",
+    "legendary": false,
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 45,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "name": "Jigglypuff",
+    "legendary": false,
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "speed": 20,
+    "generation": 1
+  },
+  {
+    "_id": 46,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "name": "Wigglytuff",
+    "legendary": false,
+    "hp": 140,
+    "attack": 70,
+    "defense": 45,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 47,
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "name": "Zubat",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 48,
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "name": "Golbat",
+    "legendary": false,
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 49,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Oddish",
+    "legendary": false,
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 50,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Gloom",
+    "legendary": false,
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 51,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Vileplume",
+    "legendary": false,
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 52,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "name": "Paras",
+    "legendary": false,
+    "hp": 35,
+    "attack": 70,
+    "defense": 55,
+    "speed": 25,
+    "generation": 1
+  },
+  {
+    "_id": 53,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "name": "Parasect",
+    "legendary": false,
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 54,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Venonat",
+    "legendary": false,
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 55,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Venomoth",
+    "legendary": false,
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 56,
+    "types": [
+      "Ground"
+    ],
+    "name": "Diglett",
+    "legendary": false,
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "speed": 95,
+    "generation": 1
+  },
+  {
+    "_id": 57,
+    "types": [
+      "Ground"
+    ],
+    "name": "Dugtrio",
+    "legendary": false,
+    "hp": 35,
+    "attack": 80,
+    "defense": 50,
+    "speed": 120,
+    "generation": 1
+  },
+  {
+    "_id": 58,
+    "types": [
+      "Normal"
+    ],
+    "name": "Meowth",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 59,
+    "types": [
+      "Normal"
+    ],
+    "name": "Persian",
+    "legendary": false,
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "speed": 115,
+    "generation": 1
+  },
+  {
+    "_id": 60,
+    "types": [
+      "Water"
+    ],
+    "name": "Psyduck",
+    "legendary": false,
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 61,
+    "types": [
+      "Water"
+    ],
+    "name": "Golduck",
+    "legendary": false,
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "speed": 85,
+    "generation": 1
+  },
+  {
+    "_id": 62,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Mankey",
+    "legendary": false,
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 63,
+    "types": [
+      "Fighting"
+    ],
+    "name": "",
+    "legendary": false,
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "speed": 95,
+    "generation": 1
+  },
+  {
+    "_id": 64,
+    "types": [
+      "Fire"
+    ],
+    "name": "Growlithe",
+    "legendary": false,
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 65,
+    "types": [
+      "Fire"
+    ],
+    "name": "Arcanine",
+    "legendary": false,
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "speed": 95,
+    "generation": 1
+  },
+  {
+    "_id": 66,
+    "types": [
+      "Water"
+    ],
+    "name": "Poliwag",
+    "legendary": false,
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 67,
+    "types": [
+      "Water"
+    ],
+    "name": "Poliwhirl",
+    "legendary": false,
+    "hp": 65,
+    "attack": 65,
+    "defense": 65,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 68,
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "name": "Poliwrath",
+    "legendary": false,
+    "hp": 90,
+    "attack": 95,
+    "defense": 95,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 69,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Abra",
+    "legendary": false,
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 70,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Kadabra",
+    "legendary": false,
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "speed": 105,
+    "generation": 1
+  },
+  {
+    "_id": 71,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Alakazam",
+    "legendary": false,
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "speed": 120,
+    "generation": 1
+  },
+  {
+    "_id": 72,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Mega Alakazam",
+    "legendary": false,
+    "hp": 55,
+    "attack": 50,
+    "defense": 65,
+    "speed": 150,
+    "generation": 1
+  },
+  {
+    "_id": 73,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Machop",
+    "legendary": false,
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 74,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Machoke",
+    "legendary": false,
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 75,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Machamp",
+    "legendary": false,
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 76,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Bellsprout",
+    "legendary": false,
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 77,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Weepinbell",
+    "legendary": false,
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 78,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Victreebel",
+    "legendary": false,
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 79,
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "name": "Tentacool",
+    "legendary": false,
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 80,
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "name": "Tentacruel",
+    "legendary": false,
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 81,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "name": "Geodude",
+    "legendary": false,
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "speed": 20,
+    "generation": 1
+  },
+  {
+    "_id": 82,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "name": "Graveler",
+    "legendary": false,
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 83,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "name": "Golem",
+    "legendary": false,
+    "hp": 80,
+    "attack": 120,
+    "defense": 130,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 84,
+    "types": [
+      "Fire"
+    ],
+    "name": "Ponyta",
+    "legendary": false,
+    "hp": 50,
+    "attack": 85,
+    "defense": 55,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 85,
+    "types": [
+      "Fire"
+    ],
+    "name": "Rapidash",
+    "legendary": false,
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "speed": 105,
+    "generation": 1
+  },
+  {
+    "_id": 86,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "name": "Slowpoke",
+    "legendary": false,
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "speed": 15,
+    "generation": 1
+  },
+  {
+    "_id": 87,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "name": "Slowbro",
+    "legendary": false,
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 88,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "name": "Mega Slowbro",
+    "legendary": false,
+    "hp": 95,
+    "attack": 75,
+    "defense": 180,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 89,
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "name": "Magnemite",
+    "legendary": false,
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 90,
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "name": "Magneton",
+    "legendary": false,
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 91,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Farfetch'd",
+    "legendary": false,
+    "hp": 52,
+    "attack": 65,
+    "defense": 55,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 92,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Doduo",
+    "legendary": false,
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "speed": 75,
+    "generation": 1
+  },
+  {
+    "_id": 93,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Dodrio",
+    "legendary": false,
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 94,
+    "types": [
+      "Water"
+    ],
+    "name": "Seel",
+    "legendary": false,
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 95,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "name": "Dewgong",
+    "legendary": false,
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 96,
+    "types": [
+      "Poison"
+    ],
+    "name": "Grimer",
+    "legendary": false,
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "speed": 25,
+    "generation": 1
+  },
+  {
+    "_id": 97,
+    "types": [
+      "Poison"
+    ],
+    "name": "Muk",
+    "legendary": false,
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 98,
+    "types": [
+      "Water"
+    ],
+    "name": "Shellder",
+    "legendary": false,
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 99,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "name": "Cloyster",
+    "legendary": false,
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 100,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "name": "Gastly",
+    "legendary": false,
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 101,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "name": "Haunter",
+    "legendary": false,
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "speed": 95,
+    "generation": 1
+  },
+  {
+    "_id": 102,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "name": "Gengar",
+    "legendary": false,
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "speed": 110,
+    "generation": 1
+  },
+  {
+    "_id": 103,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "name": "Mega Gengar",
+    "legendary": false,
+    "hp": 60,
+    "attack": 65,
+    "defense": 80,
+    "speed": 130,
+    "generation": 1
+  },
+  {
+    "_id": 104,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "name": "Onix",
+    "legendary": false,
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 105,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Drowzee",
+    "legendary": false,
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "speed": 42,
+    "generation": 1
+  },
+  {
+    "_id": 106,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Hypno",
+    "legendary": false,
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "speed": 67,
+    "generation": 1
+  },
+  {
+    "_id": 107,
+    "types": [
+      "Water"
+    ],
+    "name": "Krabby",
+    "legendary": false,
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 108,
+    "types": [
+      "Water"
+    ],
+    "name": "Kingler",
+    "legendary": false,
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "speed": 75,
+    "generation": 1
+  },
+  {
+    "_id": 109,
+    "types": [
+      "Electric"
+    ],
+    "name": "Voltorb",
+    "legendary": false,
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 110,
+    "types": [
+      "Electric"
+    ],
+    "name": "Electrode",
+    "legendary": false,
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "speed": 140,
+    "generation": 1
+  },
+  {
+    "_id": 111,
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "name": "Exeggcute",
+    "legendary": false,
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 112,
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "name": "Exeggutor",
+    "legendary": false,
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 113,
+    "types": [
+      "Ground"
+    ],
+    "name": "Cubone",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 114,
+    "types": [
+      "Ground"
+    ],
+    "name": "Marowak",
+    "legendary": false,
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "speed": 45,
+    "generation": 1
+  },
+  {
+    "_id": 115,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Hitmonlee",
+    "legendary": false,
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "speed": 87,
+    "generation": 1
+  },
+  {
+    "_id": 116,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Hitmonchan",
+    "legendary": false,
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "speed": 76,
+    "generation": 1
+  },
+  {
+    "_id": 117,
+    "types": [
+      "Normal"
+    ],
+    "name": "Lickitung",
+    "legendary": false,
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 118,
+    "types": [
+      "Poison"
+    ],
+    "name": "Koffing",
+    "legendary": false,
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 119,
+    "types": [
+      "Poison"
+    ],
+    "name": "Weezing",
+    "legendary": false,
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 120,
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "name": "Rhyhorn",
+    "legendary": false,
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "speed": 25,
+    "generation": 1
+  },
+  {
+    "_id": 121,
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "name": "Rhydon",
+    "legendary": false,
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 122,
+    "types": [
+      "Normal"
+    ],
+    "name": "Chansey",
+    "legendary": false,
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 123,
+    "types": [
+      "Grass"
+    ],
+    "name": "Tangela",
+    "legendary": false,
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 124,
+    "types": [
+      "Normal"
+    ],
+    "name": "Kangaskhan",
+    "legendary": false,
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 125,
+    "types": [
+      "Normal"
+    ],
+    "name": "Mega Kangaskhan",
+    "legendary": false,
+    "hp": 105,
+    "attack": 125,
+    "defense": 100,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 126,
+    "types": [
+      "Water"
+    ],
+    "name": "Horsea",
+    "legendary": false,
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 127,
+    "types": [
+      "Water"
+    ],
+    "name": "Seadra",
+    "legendary": false,
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "speed": 85,
+    "generation": 1
+  },
+  {
+    "_id": 128,
+    "types": [
+      "Water"
+    ],
+    "name": "Goldeen",
+    "legendary": false,
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "speed": 63,
+    "generation": 1
+  },
+  {
+    "_id": 129,
+    "types": [
+      "Water"
+    ],
+    "name": "Seaking",
+    "legendary": false,
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "speed": 68,
+    "generation": 1
+  },
+  {
+    "_id": 130,
+    "types": [
+      "Water"
+    ],
+    "name": "Staryu",
+    "legendary": false,
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "speed": 85,
+    "generation": 1
+  },
+  {
+    "_id": 131,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "name": "Starmie",
+    "legendary": false,
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "speed": 115,
+    "generation": 1
+  },
+  {
+    "_id": 132,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Mr. Mime",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 133,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Scyther",
+    "legendary": false,
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "speed": 105,
+    "generation": 1
+  },
+  {
+    "_id": 134,
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "name": "Jynx",
+    "legendary": false,
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "speed": 95,
+    "generation": 1
+  },
+  {
+    "_id": 135,
+    "types": [
+      "Electric"
+    ],
+    "name": "Electabuzz",
+    "legendary": false,
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "speed": 105,
+    "generation": 1
+  },
+  {
+    "_id": 136,
+    "types": [
+      "Fire"
+    ],
+    "name": "Magmar",
+    "legendary": false,
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "speed": 93,
+    "generation": 1
+  },
+  {
+    "_id": 137,
+    "types": [
+      "Bug"
+    ],
+    "name": "Pinsir",
+    "legendary": false,
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "speed": 85,
+    "generation": 1
+  },
+  {
+    "_id": 138,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Mega Pinsir",
+    "legendary": false,
+    "hp": 65,
+    "attack": 155,
+    "defense": 120,
+    "speed": 105,
+    "generation": 1
+  },
+  {
+    "_id": 139,
+    "types": [
+      "Normal"
+    ],
+    "name": "Tauros",
+    "legendary": false,
+    "hp": 75,
+    "attack": 100,
+    "defense": 95,
+    "speed": 110,
+    "generation": 1
+  },
+  {
+    "_id": 140,
+    "types": [
+      "Water"
+    ],
+    "name": "Magikarp",
+    "legendary": false,
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 141,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Gyarados",
+    "legendary": false,
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "speed": 81,
+    "generation": 1
+  },
+  {
+    "_id": 142,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "name": "Mega Gyarados",
+    "legendary": false,
+    "hp": 95,
+    "attack": 155,
+    "defense": 109,
+    "speed": 81,
+    "generation": 1
+  },
+  {
+    "_id": 143,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "name": "Lapras",
+    "legendary": false,
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "speed": 60,
+    "generation": 1
+  },
+  {
+    "_id": 144,
+    "types": [
+      "Normal"
+    ],
+    "name": "Ditto",
+    "legendary": false,
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "speed": 48,
+    "generation": 1
+  },
+  {
+    "_id": 145,
+    "types": [
+      "Normal"
+    ],
+    "name": "Eevee",
+    "legendary": false,
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 146,
+    "types": [
+      "Water"
+    ],
+    "name": "Vaporeon",
+    "legendary": false,
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "speed": 65,
+    "generation": 1
+  },
+  {
+    "_id": 147,
+    "types": [
+      "Electric"
+    ],
+    "name": "Jolteon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "speed": 130,
+    "generation": 1
+  },
+  {
+    "_id": 148,
+    "types": [
+      "Fire"
+    ],
+    "name": "Flareon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "speed": 65,
+    "generation": 1
+  },
+  {
+    "_id": 149,
+    "types": [
+      "Normal"
+    ],
+    "name": "Porygon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "speed": 40,
+    "generation": 1
+  },
+  {
+    "_id": 150,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "name": "Omanyte",
+    "legendary": false,
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "speed": 35,
+    "generation": 1
+  },
+  {
+    "_id": 151,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "name": "Omastar",
+    "legendary": false,
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 152,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "name": "Kabuto",
+    "legendary": false,
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "speed": 55,
+    "generation": 1
+  },
+  {
+    "_id": 153,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "name": "Kabutops",
+    "legendary": false,
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 154,
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "name": "Aerodactyl",
+    "legendary": false,
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "speed": 130,
+    "generation": 1
+  },
+  {
+    "_id": 155,
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "name": "Mega Aerodactyl",
+    "legendary": false,
+    "hp": 80,
+    "attack": 135,
+    "defense": 85,
+    "speed": 150,
+    "generation": 1
+  },
+  {
+    "_id": 156,
+    "types": [
+      "Normal"
+    ],
+    "name": "Snorlax",
+    "legendary": false,
+    "hp": 160,
+    "attack": 110,
+    "defense": 65,
+    "speed": 30,
+    "generation": 1
+  },
+  {
+    "_id": 157,
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "name": "Articuno",
+    "legendary": true,
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "speed": 85,
+    "generation": 1
+  },
+  {
+    "_id": 158,
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "name": "Zapdos",
+    "legendary": true,
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 159,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "name": "Moltres",
+    "legendary": true,
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "speed": 90,
+    "generation": 1
+  },
+  {
+    "_id": 160,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Dratini",
+    "legendary": false,
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "speed": 50,
+    "generation": 1
+  },
+  {
+    "_id": 161,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Dragonair",
+    "legendary": false,
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "speed": 70,
+    "generation": 1
+  },
+  {
+    "_id": 162,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "name": "Dragonite",
+    "legendary": false,
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "speed": 80,
+    "generation": 1
+  },
+  {
+    "_id": 163,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Mewtwo",
+    "legendary": true,
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "speed": 130,
+    "generation": 1
+  },
+  {
+    "_id": 164,
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "name": "Mega Mewtwo X",
+    "legendary": true,
+    "hp": 106,
+    "attack": 190,
+    "defense": 100,
+    "speed": 130,
+    "generation": 1
+  },
+  {
+    "_id": 165,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Mega Mewtwo Y",
+    "legendary": true,
+    "hp": 106,
+    "attack": 150,
+    "defense": 70,
+    "speed": 140,
+    "generation": 1
+  },
+  {
+    "_id": 166,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Mew",
+    "legendary": false,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "generation": 1
+  },
+  {
+    "_id": 167,
+    "types": [
+      "Grass"
+    ],
+    "name": "Chikorita",
+    "legendary": false,
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "speed": 45,
+    "generation": 2
+  },
+  {
+    "_id": 168,
+    "types": [
+      "Grass"
+    ],
+    "name": "Bayleef",
+    "legendary": false,
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "speed": 60,
+    "generation": 2
+  },
+  {
+    "_id": 169,
+    "types": [
+      "Grass"
+    ],
+    "name": "Meganium",
+    "legendary": false,
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "speed": 80,
+    "generation": 2
+  },
+  {
+    "_id": 170,
+    "types": [
+      "Fire"
+    ],
+    "name": "Cyndaquil",
+    "legendary": false,
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "speed": 65,
+    "generation": 2
+  },
+  {
+    "_id": 171,
+    "types": [
+      "Fire"
+    ],
+    "name": "Quilava",
+    "legendary": false,
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "speed": 80,
+    "generation": 2
+  },
+  {
+    "_id": 172,
+    "types": [
+      "Fire"
+    ],
+    "name": "Typhlosion",
+    "legendary": false,
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "speed": 100,
+    "generation": 2
+  },
+  {
+    "_id": 173,
+    "types": [
+      "Water"
+    ],
+    "name": "Totodile",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "speed": 43,
+    "generation": 2
+  },
+  {
+    "_id": 174,
+    "types": [
+      "Water"
+    ],
+    "name": "Croconaw",
+    "legendary": false,
+    "hp": 65,
+    "attack": 80,
+    "defense": 80,
+    "speed": 58,
+    "generation": 2
+  },
+  {
+    "_id": 175,
+    "types": [
+      "Water"
+    ],
+    "name": "Feraligatr",
+    "legendary": false,
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "speed": 78,
+    "generation": 2
+  },
+  {
+    "_id": 176,
+    "types": [
+      "Normal"
+    ],
+    "name": "Sentret",
+    "legendary": false,
+    "hp": 35,
+    "attack": 46,
+    "defense": 34,
+    "speed": 20,
+    "generation": 2
+  },
+  {
+    "_id": 177,
+    "types": [
+      "Normal"
+    ],
+    "name": "Furret",
+    "legendary": false,
+    "hp": 85,
+    "attack": 76,
+    "defense": 64,
+    "speed": 90,
+    "generation": 2
+  },
+  {
+    "_id": 178,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Hoothoot",
+    "legendary": false,
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 179,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Noctowl",
+    "legendary": false,
+    "hp": 100,
+    "attack": 50,
+    "defense": 50,
+    "speed": 70,
+    "generation": 2
+  },
+  {
+    "_id": 180,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Ledyba",
+    "legendary": false,
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "speed": 55,
+    "generation": 2
+  },
+  {
+    "_id": 181,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Ledian",
+    "legendary": false,
+    "hp": 55,
+    "attack": 35,
+    "defense": 50,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 182,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Spinarak",
+    "legendary": false,
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 183,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Ariados",
+    "legendary": false,
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "speed": 40,
+    "generation": 2
+  },
+  {
+    "_id": 184,
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "name": "Crobat",
+    "legendary": false,
+    "hp": 85,
+    "attack": 90,
+    "defense": 80,
+    "speed": 130,
+    "generation": 2
+  },
+  {
+    "_id": 185,
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "name": "Chinchou",
+    "legendary": false,
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "speed": 67,
+    "generation": 2
+  },
+  {
+    "_id": 186,
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "name": "Lanturn",
+    "legendary": false,
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "speed": 67,
+    "generation": 2
+  },
+  {
+    "_id": 187,
+    "types": [
+      "Electric"
+    ],
+    "name": "Pichu",
+    "legendary": false,
+    "hp": 20,
+    "attack": 40,
+    "defense": 15,
+    "speed": 60,
+    "generation": 2
+  },
+  {
+    "_id": 188,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Cleffa",
+    "legendary": false,
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "speed": 15,
+    "generation": 2
+  },
+  {
+    "_id": 189,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "name": "Igglybuff",
+    "legendary": false,
+    "hp": 90,
+    "attack": 30,
+    "defense": 15,
+    "speed": 15,
+    "generation": 2
+  },
+  {
+    "_id": 190,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Togepi",
+    "legendary": false,
+    "hp": 35,
+    "attack": 20,
+    "defense": 65,
+    "speed": 20,
+    "generation": 2
+  },
+  {
+    "_id": 191,
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "name": "Togetic",
+    "legendary": false,
+    "hp": 55,
+    "attack": 40,
+    "defense": 85,
+    "speed": 40,
+    "generation": 2
+  },
+  {
+    "_id": 192,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "name": "Natu",
+    "legendary": false,
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "speed": 70,
+    "generation": 2
+  },
+  {
+    "_id": 193,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "name": "Xatu",
+    "legendary": false,
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "speed": 95,
+    "generation": 2
+  },
+  {
+    "_id": 194,
+    "types": [
+      "Electric"
+    ],
+    "name": "Mareep",
+    "legendary": false,
+    "hp": 55,
+    "attack": 40,
+    "defense": 40,
+    "speed": 35,
+    "generation": 2
+  },
+  {
+    "_id": 195,
+    "types": [
+      "Electric"
+    ],
+    "name": "Flaaffy",
+    "legendary": false,
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "speed": 45,
+    "generation": 2
+  },
+  {
+    "_id": 196,
+    "types": [
+      "Electric"
+    ],
+    "name": "Ampharos",
+    "legendary": false,
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "speed": 55,
+    "generation": 2
+  },
+  {
+    "_id": 197,
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "name": "Mega Ampharos",
+    "legendary": false,
+    "hp": 90,
+    "attack": 95,
+    "defense": 105,
+    "speed": 45,
+    "generation": 2
+  },
+  {
+    "_id": 198,
+    "types": [
+      "Grass"
+    ],
+    "name": "Bellossom",
+    "legendary": false,
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 199,
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "name": "Marill",
+    "legendary": false,
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "speed": 40,
+    "generation": 2
+  },
+  {
+    "_id": 200,
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "name": "Azumarill",
+    "legendary": false,
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 201,
+    "types": [
+      "Rock"
+    ],
+    "name": "Sudowoodo",
+    "legendary": false,
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 202,
+    "types": [
+      "Water"
+    ],
+    "name": "Politoed",
+    "legendary": false,
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "speed": 70,
+    "generation": 2
+  },
+  {
+    "_id": 203,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "name": "Hoppip",
+    "legendary": false,
+    "hp": 35,
+    "attack": 35,
+    "defense": 40,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 204,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "name": "Skiploom",
+    "legendary": false,
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "speed": 80,
+    "generation": 2
+  },
+  {
+    "_id": 205,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "name": "Jumpluff",
+    "legendary": false,
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "speed": 110,
+    "generation": 2
+  },
+  {
+    "_id": 206,
+    "types": [
+      "Normal"
+    ],
+    "name": "Aipom",
+    "legendary": false,
+    "hp": 55,
+    "attack": 70,
+    "defense": 55,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 207,
+    "types": [
+      "Grass"
+    ],
+    "name": "Sunkern",
+    "legendary": false,
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 208,
+    "types": [
+      "Grass"
+    ],
+    "name": "Sunflora",
+    "legendary": false,
+    "hp": 75,
+    "attack": 75,
+    "defense": 55,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 209,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Yanma",
+    "legendary": false,
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "speed": 95,
+    "generation": 2
+  },
+  {
+    "_id": 210,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Wooper",
+    "legendary": false,
+    "hp": 55,
+    "attack": 45,
+    "defense": 45,
+    "speed": 15,
+    "generation": 2
+  },
+  {
+    "_id": 211,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Quagsire",
+    "legendary": false,
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "speed": 35,
+    "generation": 2
+  },
+  {
+    "_id": 212,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Espeon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "speed": 110,
+    "generation": 2
+  },
+  {
+    "_id": 213,
+    "types": [
+      "Dark"
+    ],
+    "name": "Umbreon",
+    "legendary": false,
+    "hp": 95,
+    "attack": 65,
+    "defense": 110,
+    "speed": 65,
+    "generation": 2
+  },
+  {
+    "_id": 214,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "name": "Murkrow",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "speed": 91,
+    "generation": 2
+  },
+  {
+    "_id": 215,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "name": "Slowking",
+    "legendary": false,
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 216,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Misdreavus",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 217,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Unown",
+    "legendary": false,
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "speed": 48,
+    "generation": 2
+  },
+  {
+    "_id": 218,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Wobbuffet",
+    "legendary": false,
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "speed": 33,
+    "generation": 2
+  },
+  {
+    "_id": 219,
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "name": "Girafarig",
+    "legendary": false,
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 220,
+    "types": [
+      "Bug"
+    ],
+    "name": "Pineco",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "speed": 15,
+    "generation": 2
+  },
+  {
+    "_id": 221,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Forretress",
+    "legendary": false,
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "speed": 40,
+    "generation": 2
+  },
+  {
+    "_id": 222,
+    "types": [
+      "Normal"
+    ],
+    "name": "Dunsparce",
+    "legendary": false,
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "speed": 45,
+    "generation": 2
+  },
+  {
+    "_id": 223,
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "name": "Gligar",
+    "legendary": false,
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 224,
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "name": "Steelix",
+    "legendary": false,
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 225,
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "name": "Mega Steelix",
+    "legendary": false,
+    "hp": 75,
+    "attack": 125,
+    "defense": 230,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 226,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Snubbull",
+    "legendary": false,
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 227,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Granbull",
+    "legendary": false,
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "speed": 45,
+    "generation": 2
+  },
+  {
+    "_id": 228,
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "name": "Qwilfish",
+    "legendary": false,
+    "hp": 65,
+    "attack": 95,
+    "defense": 75,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 229,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Scizor",
+    "legendary": false,
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "speed": 65,
+    "generation": 2
+  },
+  {
+    "_id": 230,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Mega Scizor",
+    "legendary": false,
+    "hp": 70,
+    "attack": 150,
+    "defense": 140,
+    "speed": 75,
+    "generation": 2
+  },
+  {
+    "_id": 231,
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "name": "Shuckle",
+    "legendary": false,
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "speed": 5,
+    "generation": 2
+  },
+  {
+    "_id": 232,
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "name": "Heracross",
+    "legendary": false,
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 233,
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "name": "Mega Heracross",
+    "legendary": false,
+    "hp": 80,
+    "attack": 185,
+    "defense": 115,
+    "speed": 75,
+    "generation": 2
+  },
+  {
+    "_id": 234,
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "name": "Sneasel",
+    "legendary": false,
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "speed": 115,
+    "generation": 2
+  },
+  {
+    "_id": 235,
+    "types": [
+      "Normal"
+    ],
+    "name": "Teddiursa",
+    "legendary": false,
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "speed": 40,
+    "generation": 2
+  },
+  {
+    "_id": 236,
+    "types": [
+      "Normal"
+    ],
+    "name": "Ursaring",
+    "legendary": false,
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "speed": 55,
+    "generation": 2
+  },
+  {
+    "_id": 237,
+    "types": [
+      "Fire"
+    ],
+    "name": "Slugma",
+    "legendary": false,
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "speed": 20,
+    "generation": 2
+  },
+  {
+    "_id": 238,
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "name": "Magcargo",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 120,
+    "speed": 30,
+    "generation": 2
+  },
+  {
+    "_id": 239,
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "name": "Swinub",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 240,
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "name": "Piloswine",
+    "legendary": false,
+    "hp": 100,
+    "attack": 100,
+    "defense": 80,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 241,
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "name": "Corsola",
+    "legendary": false,
+    "hp": 55,
+    "attack": 55,
+    "defense": 85,
+    "speed": 35,
+    "generation": 2
+  },
+  {
+    "_id": 242,
+    "types": [
+      "Water"
+    ],
+    "name": "Remoraid",
+    "legendary": false,
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "speed": 65,
+    "generation": 2
+  },
+  {
+    "_id": 243,
+    "types": [
+      "Water"
+    ],
+    "name": "Octillery",
+    "legendary": false,
+    "hp": 75,
+    "attack": 105,
+    "defense": 75,
+    "speed": 45,
+    "generation": 2
+  },
+  {
+    "_id": 244,
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "name": "Delibird",
+    "legendary": false,
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "speed": 75,
+    "generation": 2
+  },
+  {
+    "_id": 245,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Mantine",
+    "legendary": false,
+    "hp": 65,
+    "attack": 40,
+    "defense": 70,
+    "speed": 70,
+    "generation": 2
+  },
+  {
+    "_id": 246,
+    "types": [
+      "Steel",
+      "Flying"
+    ],
+    "name": "Skarmory",
+    "legendary": false,
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "speed": 70,
+    "generation": 2
+  },
+  {
+    "_id": 247,
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "name": "Houndour",
+    "legendary": false,
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "speed": 65,
+    "generation": 2
+  },
+  {
+    "_id": 248,
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "name": "Houndoom",
+    "legendary": false,
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "speed": 95,
+    "generation": 2
+  },
+  {
+    "_id": 249,
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "name": "Mega Houndoom",
+    "legendary": false,
+    "hp": 75,
+    "attack": 90,
+    "defense": 90,
+    "speed": 115,
+    "generation": 2
+  },
+  {
+    "_id": 250,
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "name": "Kingdra",
+    "legendary": false,
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 251,
+    "types": [
+      "Ground"
+    ],
+    "name": "Phanpy",
+    "legendary": false,
+    "hp": 90,
+    "attack": 60,
+    "defense": 60,
+    "speed": 40,
+    "generation": 2
+  },
+  {
+    "_id": 252,
+    "types": [
+      "Ground"
+    ],
+    "name": "Donphan",
+    "legendary": false,
+    "hp": 90,
+    "attack": 120,
+    "defense": 120,
+    "speed": 50,
+    "generation": 2
+  },
+  {
+    "_id": 253,
+    "types": [
+      "Normal"
+    ],
+    "name": "Porygon2",
+    "legendary": false,
+    "hp": 85,
+    "attack": 80,
+    "defense": 90,
+    "speed": 60,
+    "generation": 2
+  },
+  {
+    "_id": 254,
+    "types": [
+      "Normal"
+    ],
+    "name": "Stantler",
+    "legendary": false,
+    "hp": 73,
+    "attack": 95,
+    "defense": 62,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 255,
+    "types": [
+      "Normal"
+    ],
+    "name": "Smeargle",
+    "legendary": false,
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "speed": 75,
+    "generation": 2
+  },
+  {
+    "_id": 256,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Tyrogue",
+    "legendary": false,
+    "hp": 35,
+    "attack": 35,
+    "defense": 35,
+    "speed": 35,
+    "generation": 2
+  },
+  {
+    "_id": 257,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Hitmontop",
+    "legendary": false,
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "speed": 70,
+    "generation": 2
+  },
+  {
+    "_id": 258,
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "name": "Smoochum",
+    "legendary": false,
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "speed": 65,
+    "generation": 2
+  },
+  {
+    "_id": 259,
+    "types": [
+      "Electric"
+    ],
+    "name": "Elekid",
+    "legendary": false,
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "speed": 95,
+    "generation": 2
+  },
+  {
+    "_id": 260,
+    "types": [
+      "Fire"
+    ],
+    "name": "Magby",
+    "legendary": false,
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "speed": 83,
+    "generation": 2
+  },
+  {
+    "_id": 261,
+    "types": [
+      "Normal"
+    ],
+    "name": "Miltank",
+    "legendary": false,
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "speed": 100,
+    "generation": 2
+  },
+  {
+    "_id": 262,
+    "types": [
+      "Normal"
+    ],
+    "name": "Blissey",
+    "legendary": false,
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "speed": 55,
+    "generation": 2
+  },
+  {
+    "_id": 263,
+    "types": [
+      "Electric"
+    ],
+    "name": "Raikou",
+    "legendary": true,
+    "hp": 90,
+    "attack": 85,
+    "defense": 75,
+    "speed": 115,
+    "generation": 2
+  },
+  {
+    "_id": 264,
+    "types": [
+      "Fire"
+    ],
+    "name": "Entei",
+    "legendary": true,
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "speed": 100,
+    "generation": 2
+  },
+  {
+    "_id": 265,
+    "types": [
+      "Water"
+    ],
+    "name": "Suicune",
+    "legendary": true,
+    "hp": 100,
+    "attack": 75,
+    "defense": 115,
+    "speed": 85,
+    "generation": 2
+  },
+  {
+    "_id": 266,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "name": "Larvitar",
+    "legendary": false,
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "speed": 41,
+    "generation": 2
+  },
+  {
+    "_id": 267,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "name": "Pupitar",
+    "legendary": false,
+    "hp": 70,
+    "attack": 84,
+    "defense": 70,
+    "speed": 51,
+    "generation": 2
+  },
+  {
+    "_id": 268,
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "name": "Tyranitar",
+    "legendary": false,
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "speed": 61,
+    "generation": 2
+  },
+  {
+    "_id": 269,
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "name": "Mega Tyranitar",
+    "legendary": false,
+    "hp": 100,
+    "attack": 164,
+    "defense": 150,
+    "speed": 71,
+    "generation": 2
+  },
+  {
+    "_id": 270,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "name": "Lugia",
+    "legendary": true,
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "speed": 110,
+    "generation": 2
+  },
+  {
+    "_id": 271,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "name": "Ho-oh",
+    "legendary": true,
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "speed": 90,
+    "generation": 2
+  },
+  {
+    "_id": 272,
+    "types": [
+      "Psychic",
+      "Grass"
+    ],
+    "name": "Celebi",
+    "legendary": false,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "generation": 2
+  },
+  {
+    "_id": 273,
+    "types": [
+      "Grass"
+    ],
+    "name": "Treecko",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 274,
+    "types": [
+      "Grass"
+    ],
+    "name": "Grovyle",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "speed": 95,
+    "generation": 3
+  },
+  {
+    "_id": 275,
+    "types": [
+      "Grass"
+    ],
+    "name": "Sceptile",
+    "legendary": false,
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "speed": 120,
+    "generation": 3
+  },
+  {
+    "_id": 276,
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "name": "Mega Sceptile",
+    "legendary": false,
+    "hp": 70,
+    "attack": 110,
+    "defense": 75,
+    "speed": 145,
+    "generation": 3
+  },
+  {
+    "_id": 277,
+    "types": [
+      "Fire"
+    ],
+    "name": "Torchic",
+    "legendary": false,
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "speed": 45,
+    "generation": 3
+  },
+  {
+    "_id": 278,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Combusken",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "speed": 55,
+    "generation": 3
+  },
+  {
+    "_id": 279,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Blaziken",
+    "legendary": false,
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 280,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Mega Blaziken",
+    "legendary": false,
+    "hp": 80,
+    "attack": 160,
+    "defense": 80,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 281,
+    "types": [
+      "Water"
+    ],
+    "name": "Mudkip",
+    "legendary": false,
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 282,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Marshtomp",
+    "legendary": false,
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 283,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Swampert",
+    "legendary": false,
+    "hp": 100,
+    "attack": 110,
+    "defense": 90,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 284,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Mega Swampert",
+    "legendary": false,
+    "hp": 100,
+    "attack": 150,
+    "defense": 110,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 285,
+    "types": [
+      "Dark"
+    ],
+    "name": "Poochyena",
+    "legendary": false,
+    "hp": 35,
+    "attack": 55,
+    "defense": 35,
+    "speed": 35,
+    "generation": 3
+  },
+  {
+    "_id": 286,
+    "types": [
+      "Dark"
+    ],
+    "name": "Mightyena",
+    "legendary": false,
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 287,
+    "types": [
+      "Normal"
+    ],
+    "name": "Zigzagoon",
+    "legendary": false,
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 288,
+    "types": [
+      "Normal"
+    ],
+    "name": "Linoone",
+    "legendary": false,
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 289,
+    "types": [
+      "Bug"
+    ],
+    "name": "Wurmple",
+    "legendary": false,
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "speed": 20,
+    "generation": 3
+  },
+  {
+    "_id": 290,
+    "types": [
+      "Bug"
+    ],
+    "name": "Silcoon",
+    "legendary": false,
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "speed": 15,
+    "generation": 3
+  },
+  {
+    "_id": 291,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Beautifly",
+    "legendary": false,
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 292,
+    "types": [
+      "Bug"
+    ],
+    "name": "Cascoon",
+    "legendary": false,
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "speed": 15,
+    "generation": 3
+  },
+  {
+    "_id": 293,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Dustox",
+    "legendary": false,
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 294,
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "name": "Lotad",
+    "legendary": false,
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "speed": 30,
+    "generation": 3
+  },
+  {
+    "_id": 295,
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "name": "Lombre",
+    "legendary": false,
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 296,
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "name": "Ludicolo",
+    "legendary": false,
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 297,
+    "types": [
+      "Grass"
+    ],
+    "name": "Seedot",
+    "legendary": false,
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "speed": 30,
+    "generation": 3
+  },
+  {
+    "_id": 298,
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "name": "Nuzleaf",
+    "legendary": false,
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 299,
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "name": "Shiftry",
+    "legendary": false,
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 300,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Taillow",
+    "legendary": false,
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "speed": 85,
+    "generation": 3
+  },
+  {
+    "_id": 301,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Swellow",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "speed": 125,
+    "generation": 3
+  },
+  {
+    "_id": 302,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Wingull",
+    "legendary": false,
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "speed": 85,
+    "generation": 3
+  },
+  {
+    "_id": 303,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Pelipper",
+    "legendary": false,
+    "hp": 60,
+    "attack": 50,
+    "defense": 100,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 304,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Ralts",
+    "legendary": false,
+    "hp": 28,
+    "attack": 25,
+    "defense": 25,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 305,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Kirlia",
+    "legendary": false,
+    "hp": 38,
+    "attack": 35,
+    "defense": 35,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 306,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Gardevoir",
+    "legendary": false,
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 307,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Mega Gardevoir",
+    "legendary": false,
+    "hp": 68,
+    "attack": 85,
+    "defense": 65,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 308,
+    "types": [
+      "Bug",
+      "Water"
+    ],
+    "name": "Surskit",
+    "legendary": false,
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 309,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Masquerain",
+    "legendary": false,
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 310,
+    "types": [
+      "Grass"
+    ],
+    "name": "Shroomish",
+    "legendary": false,
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "speed": 35,
+    "generation": 3
+  },
+  {
+    "_id": 311,
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "name": "Breloom",
+    "legendary": false,
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 312,
+    "types": [
+      "Normal"
+    ],
+    "name": "Slakoth",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "speed": 30,
+    "generation": 3
+  },
+  {
+    "_id": 313,
+    "types": [
+      "Normal"
+    ],
+    "name": "Vigoroth",
+    "legendary": false,
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 314,
+    "types": [
+      "Normal"
+    ],
+    "name": "Slaking",
+    "legendary": false,
+    "hp": 150,
+    "attack": 160,
+    "defense": 100,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 315,
+    "types": [
+      "Bug",
+      "Ground"
+    ],
+    "name": "Nincada",
+    "legendary": false,
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 316,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Ninjask",
+    "legendary": false,
+    "hp": 61,
+    "attack": 90,
+    "defense": 45,
+    "speed": 160,
+    "generation": 3
+  },
+  {
+    "_id": 317,
+    "types": [
+      "Bug",
+      "Ghost"
+    ],
+    "name": "Shedinja",
+    "legendary": false,
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 318,
+    "types": [
+      "Normal"
+    ],
+    "name": "Whismur",
+    "legendary": false,
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "speed": 28,
+    "generation": 3
+  },
+  {
+    "_id": 319,
+    "types": [
+      "Normal"
+    ],
+    "name": "Loudred",
+    "legendary": false,
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "speed": 48,
+    "generation": 3
+  },
+  {
+    "_id": 320,
+    "types": [
+      "Normal"
+    ],
+    "name": "Exploud",
+    "legendary": false,
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "speed": 68,
+    "generation": 3
+  },
+  {
+    "_id": 321,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Makuhita",
+    "legendary": false,
+    "hp": 72,
+    "attack": 60,
+    "defense": 30,
+    "speed": 25,
+    "generation": 3
+  },
+  {
+    "_id": 322,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Hariyama",
+    "legendary": false,
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 323,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "name": "Azurill",
+    "legendary": false,
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "speed": 20,
+    "generation": 3
+  },
+  {
+    "_id": 324,
+    "types": [
+      "Rock"
+    ],
+    "name": "Nosepass",
+    "legendary": false,
+    "hp": 30,
+    "attack": 45,
+    "defense": 135,
+    "speed": 30,
+    "generation": 3
+  },
+  {
+    "_id": 325,
+    "types": [
+      "Normal"
+    ],
+    "name": "Skitty",
+    "legendary": false,
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 326,
+    "types": [
+      "Normal"
+    ],
+    "name": "Delcatty",
+    "legendary": false,
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 327,
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "name": "Sableye",
+    "legendary": false,
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 328,
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "name": "Mega Sableye",
+    "legendary": false,
+    "hp": 50,
+    "attack": 85,
+    "defense": 125,
+    "speed": 20,
+    "generation": 3
+  },
+  {
+    "_id": 329,
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "name": "Mawile",
+    "legendary": false,
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 330,
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "name": "Mega Mawile",
+    "legendary": false,
+    "hp": 50,
+    "attack": 105,
+    "defense": 125,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 331,
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "name": "Aron",
+    "legendary": false,
+    "hp": 50,
+    "attack": 70,
+    "defense": 100,
+    "speed": 30,
+    "generation": 3
+  },
+  {
+    "_id": 332,
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "name": "Lairon",
+    "legendary": false,
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 333,
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "name": "Aggron",
+    "legendary": false,
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 334,
+    "types": [
+      "Steel"
+    ],
+    "name": "Mega Aggron",
+    "legendary": false,
+    "hp": 70,
+    "attack": 140,
+    "defense": 230,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 335,
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "name": "Meditite",
+    "legendary": false,
+    "hp": 30,
+    "attack": 40,
+    "defense": 55,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 336,
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "name": "Medicham",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 337,
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "name": "Mega Medicham",
+    "legendary": false,
+    "hp": 60,
+    "attack": 100,
+    "defense": 85,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 338,
+    "types": [
+      "Electric"
+    ],
+    "name": "Electrike",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 339,
+    "types": [
+      "Electric"
+    ],
+    "name": "Manectric",
+    "legendary": false,
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "speed": 105,
+    "generation": 3
+  },
+  {
+    "_id": 340,
+    "types": [
+      "Electric"
+    ],
+    "name": "Mega Manectric",
+    "legendary": false,
+    "hp": 70,
+    "attack": 75,
+    "defense": 80,
+    "speed": 135,
+    "generation": 3
+  },
+  {
+    "_id": 341,
+    "types": [
+      "Electric"
+    ],
+    "name": "Plusle",
+    "legendary": false,
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "speed": 95,
+    "generation": 3
+  },
+  {
+    "_id": 342,
+    "types": [
+      "Electric"
+    ],
+    "name": "Minun",
+    "legendary": false,
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "speed": 95,
+    "generation": 3
+  },
+  {
+    "_id": 343,
+    "types": [
+      "Bug"
+    ],
+    "name": "Volbeat",
+    "legendary": false,
+    "hp": 65,
+    "attack": 73,
+    "defense": 55,
+    "speed": 85,
+    "generation": 3
+  },
+  {
+    "_id": 344,
+    "types": [
+      "Bug"
+    ],
+    "name": "Illumise",
+    "legendary": false,
+    "hp": 65,
+    "attack": 47,
+    "defense": 55,
+    "speed": 85,
+    "generation": 3
+  },
+  {
+    "_id": 345,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Roselia",
+    "legendary": false,
+    "hp": 50,
+    "attack": 60,
+    "defense": 45,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 346,
+    "types": [
+      "Poison"
+    ],
+    "name": "Gulpin",
+    "legendary": false,
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 347,
+    "types": [
+      "Poison"
+    ],
+    "name": "Swalot",
+    "legendary": false,
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "speed": 55,
+    "generation": 3
+  },
+  {
+    "_id": 348,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "name": "Carvanha",
+    "legendary": false,
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 349,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "name": "Sharpedo",
+    "legendary": false,
+    "hp": 70,
+    "attack": 120,
+    "defense": 40,
+    "speed": 95,
+    "generation": 3
+  },
+  {
+    "_id": 350,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "name": "Mega Sharpedo",
+    "legendary": false,
+    "hp": 70,
+    "attack": 140,
+    "defense": 70,
+    "speed": 105,
+    "generation": 3
+  },
+  {
+    "_id": 351,
+    "types": [
+      "Water"
+    ],
+    "name": "Wailmer",
+    "legendary": false,
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 352,
+    "types": [
+      "Water"
+    ],
+    "name": "Wailord",
+    "legendary": false,
+    "hp": 170,
+    "attack": 90,
+    "defense": 45,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 353,
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "name": "Numel",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "speed": 35,
+    "generation": 3
+  },
+  {
+    "_id": 354,
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "name": "Camerupt",
+    "legendary": false,
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 355,
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "name": "Mega Camerupt",
+    "legendary": false,
+    "hp": 70,
+    "attack": 120,
+    "defense": 100,
+    "speed": 20,
+    "generation": 3
+  },
+  {
+    "_id": 356,
+    "types": [
+      "Fire"
+    ],
+    "name": "Torkoal",
+    "legendary": false,
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "speed": 20,
+    "generation": 3
+  },
+  {
+    "_id": 357,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Spoink",
+    "legendary": false,
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 358,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Grumpig",
+    "legendary": false,
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 359,
+    "types": [
+      "Normal"
+    ],
+    "name": "Spinda",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 360,
+    "types": [
+      "Ground"
+    ],
+    "name": "Trapinch",
+    "legendary": false,
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "speed": 10,
+    "generation": 3
+  },
+  {
+    "_id": 361,
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "name": "Vibrava",
+    "legendary": false,
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 362,
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "name": "Flygon",
+    "legendary": false,
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 363,
+    "types": [
+      "Grass"
+    ],
+    "name": "Cacnea",
+    "legendary": false,
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "speed": 35,
+    "generation": 3
+  },
+  {
+    "_id": 364,
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "name": "Cacturne",
+    "legendary": false,
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "speed": 55,
+    "generation": 3
+  },
+  {
+    "_id": 365,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Swablu",
+    "legendary": false,
+    "hp": 45,
+    "attack": 40,
+    "defense": 60,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 366,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "name": "Altaria",
+    "legendary": false,
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 367,
+    "types": [
+      "Dragon",
+      "Fairy"
+    ],
+    "name": "Mega Altaria",
+    "legendary": false,
+    "hp": 75,
+    "attack": 110,
+    "defense": 110,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 368,
+    "types": [
+      "Normal"
+    ],
+    "name": "Zangoose",
+    "legendary": false,
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 369,
+    "types": [
+      "Poison"
+    ],
+    "name": "Seviper",
+    "legendary": false,
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 370,
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Lunatone",
+    "legendary": false,
+    "hp": 70,
+    "attack": 55,
+    "defense": 65,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 371,
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
+    "name": "Solrock",
+    "legendary": false,
+    "hp": 70,
+    "attack": 95,
+    "defense": 85,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 372,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Barboach",
+    "legendary": false,
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 373,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Whiscash",
+    "legendary": false,
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "speed": 60,
+    "generation": 3
+  },
+  {
+    "_id": 374,
+    "types": [
+      "Water"
+    ],
+    "name": "Corphish",
+    "legendary": false,
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "speed": 35,
+    "generation": 3
+  },
+  {
+    "_id": 375,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "name": "Crawdaunt",
+    "legendary": false,
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "speed": 55,
+    "generation": 3
+  },
+  {
+    "_id": 376,
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Baltoy",
+    "legendary": false,
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "speed": 55,
+    "generation": 3
+  },
+  {
+    "_id": 377,
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "name": "Claydol",
+    "legendary": false,
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "speed": 75,
+    "generation": 3
+  },
+  {
+    "_id": 378,
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "name": "Lileep",
+    "legendary": false,
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "speed": 23,
+    "generation": 3
+  },
+  {
+    "_id": 379,
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "name": "Cradily",
+    "legendary": false,
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "speed": 43,
+    "generation": 3
+  },
+  {
+    "_id": 380,
+    "types": [
+      "Rock",
+      "Bug"
+    ],
+    "name": "Anorith",
+    "legendary": false,
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "speed": 75,
+    "generation": 3
+  },
+  {
+    "_id": 381,
+    "types": [
+      "Rock",
+      "Bug"
+    ],
+    "name": "Armaldo",
+    "legendary": false,
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "speed": 45,
+    "generation": 3
+  },
+  {
+    "_id": 382,
+    "types": [
+      "Water"
+    ],
+    "name": "Feebas",
+    "legendary": false,
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 383,
+    "types": [
+      "Water"
+    ],
+    "name": "Milotic",
+    "legendary": false,
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "speed": 81,
+    "generation": 3
+  },
+  {
+    "_id": 384,
+    "types": [
+      "Normal"
+    ],
+    "name": "Castform",
+    "legendary": false,
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 385,
+    "types": [
+      "Normal"
+    ],
+    "name": "Kecleon",
+    "legendary": false,
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "speed": 40,
+    "generation": 3
+  },
+  {
+    "_id": 386,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Shuppet",
+    "legendary": false,
+    "hp": 44,
+    "attack": 75,
+    "defense": 35,
+    "speed": 45,
+    "generation": 3
+  },
+  {
+    "_id": 387,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Banette",
+    "legendary": false,
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 388,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Mega Banette",
+    "legendary": false,
+    "hp": 64,
+    "attack": 165,
+    "defense": 75,
+    "speed": 75,
+    "generation": 3
+  },
+  {
+    "_id": 389,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Duskull",
+    "legendary": false,
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "speed": 25,
+    "generation": 3
+  },
+  {
+    "_id": 390,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Dusclops",
+    "legendary": false,
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "speed": 25,
+    "generation": 3
+  },
+  {
+    "_id": 391,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "name": "Tropius",
+    "legendary": false,
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "speed": 51,
+    "generation": 3
+  },
+  {
+    "_id": 392,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Chimecho",
+    "legendary": false,
+    "hp": 65,
+    "attack": 50,
+    "defense": 70,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 393,
+    "types": [
+      "Dark"
+    ],
+    "name": "Absol",
+    "legendary": false,
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "speed": 75,
+    "generation": 3
+  },
+  {
+    "_id": 394,
+    "types": [
+      "Dark"
+    ],
+    "name": "Mega Absol",
+    "legendary": false,
+    "hp": 65,
+    "attack": 150,
+    "defense": 60,
+    "speed": 115,
+    "generation": 3
+  },
+  {
+    "_id": 395,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Wynaut",
+    "legendary": false,
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "speed": 23,
+    "generation": 3
+  },
+  {
+    "_id": 396,
+    "types": [
+      "Ice"
+    ],
+    "name": "Snorunt",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 50,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 397,
+    "types": [
+      "Ice"
+    ],
+    "name": "Glalie",
+    "legendary": false,
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "speed": 80,
+    "generation": 3
+  },
+  {
+    "_id": 398,
+    "types": [
+      "Ice"
+    ],
+    "name": "Mega Glalie",
+    "legendary": false,
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 399,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "name": "Spheal",
+    "legendary": false,
+    "hp": 70,
+    "attack": 40,
+    "defense": 50,
+    "speed": 25,
+    "generation": 3
+  },
+  {
+    "_id": 400,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "name": "Sealeo",
+    "legendary": false,
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "speed": 45,
+    "generation": 3
+  },
+  {
+    "_id": 401,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "name": "Walrein",
+    "legendary": false,
+    "hp": 110,
+    "attack": 80,
+    "defense": 90,
+    "speed": 65,
+    "generation": 3
+  },
+  {
+    "_id": 402,
+    "types": [
+      "Water"
+    ],
+    "name": "Clamperl",
+    "legendary": false,
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "speed": 32,
+    "generation": 3
+  },
+  {
+    "_id": 403,
+    "types": [
+      "Water"
+    ],
+    "name": "Huntail",
+    "legendary": false,
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "speed": 52,
+    "generation": 3
+  },
+  {
+    "_id": 404,
+    "types": [
+      "Water"
+    ],
+    "name": "Gorebyss",
+    "legendary": false,
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "speed": 52,
+    "generation": 3
+  },
+  {
+    "_id": 405,
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "name": "Relicanth",
+    "legendary": false,
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "speed": 55,
+    "generation": 3
+  },
+  {
+    "_id": 406,
+    "types": [
+      "Water"
+    ],
+    "name": "Luvdisc",
+    "legendary": false,
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "speed": 97,
+    "generation": 3
+  },
+  {
+    "_id": 407,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Bagon",
+    "legendary": false,
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 408,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Shelgon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 95,
+    "defense": 100,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 409,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "name": "Salamence",
+    "legendary": false,
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 410,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "name": "Mega Salamence",
+    "legendary": false,
+    "hp": 95,
+    "attack": 145,
+    "defense": 130,
+    "speed": 120,
+    "generation": 3
+  },
+  {
+    "_id": 411,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Beldum",
+    "legendary": false,
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "speed": 30,
+    "generation": 3
+  },
+  {
+    "_id": 412,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Metang",
+    "legendary": false,
+    "hp": 60,
+    "attack": 75,
+    "defense": 100,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 413,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Metagross",
+    "legendary": false,
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "speed": 70,
+    "generation": 3
+  },
+  {
+    "_id": 414,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Mega Metagross",
+    "legendary": false,
+    "hp": 80,
+    "attack": 145,
+    "defense": 150,
+    "speed": 110,
+    "generation": 3
+  },
+  {
+    "_id": 415,
+    "types": [
+      "Rock"
+    ],
+    "name": "Regirock",
+    "legendary": true,
+    "hp": 80,
+    "attack": 100,
+    "defense": 200,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 416,
+    "types": [
+      "Ice"
+    ],
+    "name": "Regice",
+    "legendary": true,
+    "hp": 80,
+    "attack": 50,
+    "defense": 100,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 417,
+    "types": [
+      "Steel"
+    ],
+    "name": "Registeel",
+    "legendary": true,
+    "hp": 80,
+    "attack": 75,
+    "defense": 150,
+    "speed": 50,
+    "generation": 3
+  },
+  {
+    "_id": 418,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "name": "Latias",
+    "legendary": true,
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "speed": 110,
+    "generation": 3
+  },
+  {
+    "_id": 419,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "name": "Mega Latias",
+    "legendary": true,
+    "hp": 80,
+    "attack": 100,
+    "defense": 120,
+    "speed": 110,
+    "generation": 3
+  },
+  {
+    "_id": 420,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "name": "Latios",
+    "legendary": true,
+    "hp": 80,
+    "attack": 90,
+    "defense": 80,
+    "speed": 110,
+    "generation": 3
+  },
+  {
+    "_id": 421,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "name": "Mega Latios",
+    "legendary": true,
+    "hp": 80,
+    "attack": 130,
+    "defense": 100,
+    "speed": 110,
+    "generation": 3
+  },
+  {
+    "_id": 422,
+    "types": [
+      "Water"
+    ],
+    "name": "Kyogre",
+    "legendary": true,
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 423,
+    "types": [
+      "Water"
+    ],
+    "name": "Primal Kyogre",
+    "legendary": true,
+    "hp": 100,
+    "attack": 150,
+    "defense": 90,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 424,
+    "types": [
+      "Ground"
+    ],
+    "name": "Groudon",
+    "legendary": true,
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 425,
+    "types": [
+      "Ground",
+      "Fire"
+    ],
+    "name": "Primal Groudon",
+    "legendary": true,
+    "hp": 100,
+    "attack": 180,
+    "defense": 160,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 426,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "name": "Rayquaza",
+    "legendary": true,
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "speed": 95,
+    "generation": 3
+  },
+  {
+    "_id": 427,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "name": "Mega Rayquaza",
+    "legendary": true,
+    "hp": 105,
+    "attack": 180,
+    "defense": 100,
+    "speed": 115,
+    "generation": 3
+  },
+  {
+    "_id": 428,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Jirachi",
+    "legendary": true,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "generation": 3
+  },
+  {
+    "_id": 429,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Deoxys Normal Forme",
+    "legendary": true,
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "speed": 150,
+    "generation": 3
+  },
+  {
+    "_id": 430,
+    "types": [
+      "Psychic"
+    ],
+    "name": "DeoxysAttack Forme",
+    "legendary": true,
+    "hp": 50,
+    "attack": 180,
+    "defense": 20,
+    "speed": 150,
+    "generation": 3
+  },
+  {
+    "_id": 431,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Deoxys Defense Forme",
+    "legendary": true,
+    "hp": 50,
+    "attack": 70,
+    "defense": 160,
+    "speed": 90,
+    "generation": 3
+  },
+  {
+    "_id": 432,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Deoxys Speed Forme",
+    "legendary": true,
+    "hp": 50,
+    "attack": 95,
+    "defense": 90,
+    "speed": 180,
+    "generation": 3
+  },
+  {
+    "_id": 433,
+    "types": [
+      "Grass"
+    ],
+    "name": "Turtwig",
+    "legendary": false,
+    "hp": 55,
+    "attack": 68,
+    "defense": 64,
+    "speed": 31,
+    "generation": 4
+  },
+  {
+    "_id": 434,
+    "types": [
+      "Grass"
+    ],
+    "name": "Grotle",
+    "legendary": false,
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "speed": 36,
+    "generation": 4
+  },
+  {
+    "_id": 435,
+    "types": [
+      "Grass",
+      "Ground"
+    ],
+    "name": "Torterra",
+    "legendary": false,
+    "hp": 95,
+    "attack": 109,
+    "defense": 105,
+    "speed": 56,
+    "generation": 4
+  },
+  {
+    "_id": 436,
+    "types": [
+      "Fire"
+    ],
+    "name": "Chimchar",
+    "legendary": false,
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "speed": 61,
+    "generation": 4
+  },
+  {
+    "_id": 437,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Monferno",
+    "legendary": false,
+    "hp": 64,
+    "attack": 78,
+    "defense": 52,
+    "speed": 81,
+    "generation": 4
+  },
+  {
+    "_id": 438,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Infernape",
+    "legendary": false,
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "speed": 108,
+    "generation": 4
+  },
+  {
+    "_id": 439,
+    "types": [
+      "Water"
+    ],
+    "name": "Piplup",
+    "legendary": false,
+    "hp": 53,
+    "attack": 51,
+    "defense": 53,
+    "speed": 40,
+    "generation": 4
+  },
+  {
+    "_id": 440,
+    "types": [
+      "Water"
+    ],
+    "name": "Prinplup",
+    "legendary": false,
+    "hp": 64,
+    "attack": 66,
+    "defense": 68,
+    "speed": 50,
+    "generation": 4
+  },
+  {
+    "_id": 441,
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "name": "Empoleon",
+    "legendary": false,
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 442,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Starly",
+    "legendary": false,
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 443,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Staravia",
+    "legendary": false,
+    "hp": 55,
+    "attack": 75,
+    "defense": 50,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 444,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Staraptor",
+    "legendary": false,
+    "hp": 85,
+    "attack": 120,
+    "defense": 70,
+    "speed": 100,
+    "generation": 4
+  },
+  {
+    "_id": 445,
+    "types": [
+      "Normal"
+    ],
+    "name": "Bidoof",
+    "legendary": false,
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "speed": 31,
+    "generation": 4
+  },
+  {
+    "_id": 446,
+    "types": [
+      "Normal",
+      "Water"
+    ],
+    "name": "Bibarel",
+    "legendary": false,
+    "hp": 79,
+    "attack": 85,
+    "defense": 60,
+    "speed": 71,
+    "generation": 4
+  },
+  {
+    "_id": 447,
+    "types": [
+      "Bug"
+    ],
+    "name": "Kricketot",
+    "legendary": false,
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "speed": 25,
+    "generation": 4
+  },
+  {
+    "_id": 448,
+    "types": [
+      "Bug"
+    ],
+    "name": "Kricketune",
+    "legendary": false,
+    "hp": 77,
+    "attack": 85,
+    "defense": 51,
+    "speed": 65,
+    "generation": 4
+  },
+  {
+    "_id": 449,
+    "types": [
+      "Electric"
+    ],
+    "name": "Shinx",
+    "legendary": false,
+    "hp": 45,
+    "attack": 65,
+    "defense": 34,
+    "speed": 45,
+    "generation": 4
+  },
+  {
+    "_id": 450,
+    "types": [
+      "Electric"
+    ],
+    "name": "Luxio",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 49,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 451,
+    "types": [
+      "Electric"
+    ],
+    "name": "Luxray",
+    "legendary": false,
+    "hp": 80,
+    "attack": 120,
+    "defense": 79,
+    "speed": 70,
+    "generation": 4
+  },
+  {
+    "_id": 452,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Budew",
+    "legendary": false,
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "speed": 55,
+    "generation": 4
+  },
+  {
+    "_id": 453,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Roserade",
+    "legendary": false,
+    "hp": 60,
+    "attack": 70,
+    "defense": 65,
+    "speed": 90,
+    "generation": 4
+  },
+  {
+    "_id": 454,
+    "types": [
+      "Rock"
+    ],
+    "name": "Cranidos",
+    "legendary": false,
+    "hp": 67,
+    "attack": 125,
+    "defense": 40,
+    "speed": 58,
+    "generation": 4
+  },
+  {
+    "_id": 455,
+    "types": [
+      "Rock"
+    ],
+    "name": "Rampardos",
+    "legendary": false,
+    "hp": 97,
+    "attack": 165,
+    "defense": 60,
+    "speed": 58,
+    "generation": 4
+  },
+  {
+    "_id": 456,
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "name": "Shieldon",
+    "legendary": false,
+    "hp": 30,
+    "attack": 42,
+    "defense": 118,
+    "speed": 30,
+    "generation": 4
+  },
+  {
+    "_id": 457,
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "name": "Bastiodon",
+    "legendary": false,
+    "hp": 60,
+    "attack": 52,
+    "defense": 168,
+    "speed": 30,
+    "generation": 4
+  },
+  {
+    "_id": 458,
+    "types": [
+      "Bug"
+    ],
+    "name": "Burmy",
+    "legendary": false,
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "speed": 36,
+    "generation": 4
+  },
+  {
+    "_id": 459,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "name": "Wormadam Plant Cloak",
+    "legendary": false,
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "speed": 36,
+    "generation": 4
+  },
+  {
+    "_id": 460,
+    "types": [
+      "Bug",
+      "Ground"
+    ],
+    "name": "Wormadam Sandy Cloak",
+    "legendary": false,
+    "hp": 60,
+    "attack": 79,
+    "defense": 105,
+    "speed": 36,
+    "generation": 4
+  },
+  {
+    "_id": 461,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Wormadam Trash Cloak",
+    "legendary": false,
+    "hp": 60,
+    "attack": 69,
+    "defense": 95,
+    "speed": 36,
+    "generation": 4
+  },
+  {
+    "_id": 462,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Mothim",
+    "legendary": false,
+    "hp": 70,
+    "attack": 94,
+    "defense": 50,
+    "speed": 66,
+    "generation": 4
+  },
+  {
+    "_id": 463,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Combee",
+    "legendary": false,
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "speed": 70,
+    "generation": 4
+  },
+  {
+    "_id": 464,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Vespiquen",
+    "legendary": false,
+    "hp": 70,
+    "attack": 80,
+    "defense": 102,
+    "speed": 40,
+    "generation": 4
+  },
+  {
+    "_id": 465,
+    "types": [
+      "Electric"
+    ],
+    "name": "Pachirisu",
+    "legendary": false,
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 466,
+    "types": [
+      "Water"
+    ],
+    "name": "Buizel",
+    "legendary": false,
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "speed": 85,
+    "generation": 4
+  },
+  {
+    "_id": 467,
+    "types": [
+      "Water"
+    ],
+    "name": "Floatzel",
+    "legendary": false,
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "speed": 115,
+    "generation": 4
+  },
+  {
+    "_id": 468,
+    "types": [
+      "Grass"
+    ],
+    "name": "Cherubi",
+    "legendary": false,
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "speed": 35,
+    "generation": 4
+  },
+  {
+    "_id": 469,
+    "types": [
+      "Grass"
+    ],
+    "name": "Cherrim",
+    "legendary": false,
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "speed": 85,
+    "generation": 4
+  },
+  {
+    "_id": 470,
+    "types": [
+      "Water"
+    ],
+    "name": "Shellos",
+    "legendary": false,
+    "hp": 76,
+    "attack": 48,
+    "defense": 48,
+    "speed": 34,
+    "generation": 4
+  },
+  {
+    "_id": 471,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Gastrodon",
+    "legendary": false,
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "speed": 39,
+    "generation": 4
+  },
+  {
+    "_id": 472,
+    "types": [
+      "Normal"
+    ],
+    "name": "Ambipom",
+    "legendary": false,
+    "hp": 75,
+    "attack": 100,
+    "defense": 66,
+    "speed": 115,
+    "generation": 4
+  },
+  {
+    "_id": 473,
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "name": "Drifloon",
+    "legendary": false,
+    "hp": 90,
+    "attack": 50,
+    "defense": 34,
+    "speed": 70,
+    "generation": 4
+  },
+  {
+    "_id": 474,
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "name": "Drifblim",
+    "legendary": false,
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 475,
+    "types": [
+      "Normal"
+    ],
+    "name": "Buneary",
+    "legendary": false,
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "speed": 85,
+    "generation": 4
+  },
+  {
+    "_id": 476,
+    "types": [
+      "Normal"
+    ],
+    "name": "Lopunny",
+    "legendary": false,
+    "hp": 65,
+    "attack": 76,
+    "defense": 84,
+    "speed": 105,
+    "generation": 4
+  },
+  {
+    "_id": 477,
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
+    "name": "Mega Lopunny",
+    "legendary": false,
+    "hp": 65,
+    "attack": 136,
+    "defense": 94,
+    "speed": 135,
+    "generation": 4
+  },
+  {
+    "_id": 478,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Mismagius",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "speed": 105,
+    "generation": 4
+  },
+  {
+    "_id": 479,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "name": "Honchkrow",
+    "legendary": false,
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "speed": 71,
+    "generation": 4
+  },
+  {
+    "_id": 480,
+    "types": [
+      "Normal"
+    ],
+    "name": "Glameow",
+    "legendary": false,
+    "hp": 49,
+    "attack": 55,
+    "defense": 42,
+    "speed": 85,
+    "generation": 4
+  },
+  {
+    "_id": 481,
+    "types": [
+      "Normal"
+    ],
+    "name": "Purugly",
+    "legendary": false,
+    "hp": 71,
+    "attack": 82,
+    "defense": 64,
+    "speed": 112,
+    "generation": 4
+  },
+  {
+    "_id": 482,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Chingling",
+    "legendary": false,
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "speed": 45,
+    "generation": 4
+  },
+  {
+    "_id": 483,
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "name": "Stunky",
+    "legendary": false,
+    "hp": 63,
+    "attack": 63,
+    "defense": 47,
+    "speed": 74,
+    "generation": 4
+  },
+  {
+    "_id": 484,
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "name": "Skuntank",
+    "legendary": false,
+    "hp": 103,
+    "attack": 93,
+    "defense": 67,
+    "speed": 84,
+    "generation": 4
+  },
+  {
+    "_id": 485,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Bronzor",
+    "legendary": false,
+    "hp": 57,
+    "attack": 24,
+    "defense": 86,
+    "speed": 23,
+    "generation": 4
+  },
+  {
+    "_id": 486,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "name": "Bronzong",
+    "legendary": false,
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "speed": 33,
+    "generation": 4
+  },
+  {
+    "_id": 487,
+    "types": [
+      "Rock"
+    ],
+    "name": "Bonsly",
+    "legendary": false,
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "speed": 10,
+    "generation": 4
+  },
+  {
+    "_id": 488,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "name": "Mime Jr.",
+    "legendary": false,
+    "hp": 20,
+    "attack": 25,
+    "defense": 45,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 489,
+    "types": [
+      "Normal"
+    ],
+    "name": "Happiny",
+    "legendary": false,
+    "hp": 100,
+    "attack": 5,
+    "defense": 5,
+    "speed": 30,
+    "generation": 4
+  },
+  {
+    "_id": 490,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Chatot",
+    "legendary": false,
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "speed": 91,
+    "generation": 4
+  },
+  {
+    "_id": 491,
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "name": "Spiritomb",
+    "legendary": false,
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "speed": 35,
+    "generation": 4
+  },
+  {
+    "_id": 492,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "name": "Gible",
+    "legendary": false,
+    "hp": 58,
+    "attack": 70,
+    "defense": 45,
+    "speed": 42,
+    "generation": 4
+  },
+  {
+    "_id": 493,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "name": "Gabite",
+    "legendary": false,
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "speed": 82,
+    "generation": 4
+  },
+  {
+    "_id": 494,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "name": "Garchomp",
+    "legendary": false,
+    "hp": 108,
+    "attack": 130,
+    "defense": 95,
+    "speed": 102,
+    "generation": 4
+  },
+  {
+    "_id": 495,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "name": "Mega Garchomp",
+    "legendary": false,
+    "hp": 108,
+    "attack": 170,
+    "defense": 115,
+    "speed": 92,
+    "generation": 4
+  },
+  {
+    "_id": 496,
+    "types": [
+      "Normal"
+    ],
+    "name": "Munchlax",
+    "legendary": false,
+    "hp": 135,
+    "attack": 85,
+    "defense": 40,
+    "speed": 5,
+    "generation": 4
+  },
+  {
+    "_id": 497,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Riolu",
+    "legendary": false,
+    "hp": 40,
+    "attack": 70,
+    "defense": 40,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 498,
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "name": "Lucario",
+    "legendary": false,
+    "hp": 70,
+    "attack": 110,
+    "defense": 70,
+    "speed": 90,
+    "generation": 4
+  },
+  {
+    "_id": 499,
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "name": "Mega Lucario",
+    "legendary": false,
+    "hp": 70,
+    "attack": 145,
+    "defense": 88,
+    "speed": 112,
+    "generation": 4
+  },
+  {
+    "_id": 500,
+    "types": [
+      "Ground"
+    ],
+    "name": "Hippopotas",
+    "legendary": false,
+    "hp": 68,
+    "attack": 72,
+    "defense": 78,
+    "speed": 32,
+    "generation": 4
+  },
+  {
+    "_id": 501,
+    "types": [
+      "Ground"
+    ],
+    "name": "Hippowdon",
+    "legendary": false,
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "speed": 47,
+    "generation": 4
+  },
+  {
+    "_id": 502,
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "name": "Skorupi",
+    "legendary": false,
+    "hp": 40,
+    "attack": 50,
+    "defense": 90,
+    "speed": 65,
+    "generation": 4
+  },
+  {
+    "_id": 503,
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "name": "Drapion",
+    "legendary": false,
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 504,
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "name": "Croagunk",
+    "legendary": false,
+    "hp": 48,
+    "attack": 61,
+    "defense": 40,
+    "speed": 50,
+    "generation": 4
+  },
+  {
+    "_id": 505,
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "name": "Toxicroak",
+    "legendary": false,
+    "hp": 83,
+    "attack": 106,
+    "defense": 65,
+    "speed": 85,
+    "generation": 4
+  },
+  {
+    "_id": 506,
+    "types": [
+      "Grass"
+    ],
+    "name": "Carnivine",
+    "legendary": false,
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "speed": 46,
+    "generation": 4
+  },
+  {
+    "_id": 507,
+    "types": [
+      "Water"
+    ],
+    "name": "Finneon",
+    "legendary": false,
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "speed": 66,
+    "generation": 4
+  },
+  {
+    "_id": 508,
+    "types": [
+      "Water"
+    ],
+    "name": "Lumineon",
+    "legendary": false,
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "speed": 91,
+    "generation": 4
+  },
+  {
+    "_id": 509,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Mantyke",
+    "legendary": false,
+    "hp": 45,
+    "attack": 20,
+    "defense": 50,
+    "speed": 50,
+    "generation": 4
+  },
+  {
+    "_id": 510,
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "name": "Snover",
+    "legendary": false,
+    "hp": 60,
+    "attack": 62,
+    "defense": 50,
+    "speed": 40,
+    "generation": 4
+  },
+  {
+    "_id": 511,
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "name": "Abomasnow",
+    "legendary": false,
+    "hp": 90,
+    "attack": 92,
+    "defense": 75,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 512,
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "name": "Mega Abomasnow",
+    "legendary": false,
+    "hp": 90,
+    "attack": 132,
+    "defense": 105,
+    "speed": 30,
+    "generation": 4
+  },
+  {
+    "_id": 513,
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "name": "Weavile",
+    "legendary": false,
+    "hp": 70,
+    "attack": 120,
+    "defense": 65,
+    "speed": 125,
+    "generation": 4
+  },
+  {
+    "_id": 514,
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "name": "Magnezone",
+    "legendary": false,
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "speed": 60,
+    "generation": 4
+  },
+  {
+    "_id": 515,
+    "types": [
+      "Normal"
+    ],
+    "name": "Lickilicky",
+    "legendary": false,
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "speed": 50,
+    "generation": 4
+  },
+  {
+    "_id": 516,
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "name": "Rhyperior",
+    "legendary": false,
+    "hp": 115,
+    "attack": 140,
+    "defense": 130,
+    "speed": 40,
+    "generation": 4
+  },
+  {
+    "_id": 517,
+    "types": [
+      "Grass"
+    ],
+    "name": "Tangrowth",
+    "legendary": false,
+    "hp": 100,
+    "attack": 100,
+    "defense": 125,
+    "speed": 50,
+    "generation": 4
+  },
+  {
+    "_id": 518,
+    "types": [
+      "Electric"
+    ],
+    "name": "Electivire",
+    "legendary": false,
+    "hp": 75,
+    "attack": 123,
+    "defense": 67,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 519,
+    "types": [
+      "Fire"
+    ],
+    "name": "Magmortar",
+    "legendary": false,
+    "hp": 75,
+    "attack": 95,
+    "defense": 67,
+    "speed": 83,
+    "generation": 4
+  },
+  {
+    "_id": 520,
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "name": "Togekiss",
+    "legendary": false,
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 521,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Yanmega",
+    "legendary": false,
+    "hp": 86,
+    "attack": 76,
+    "defense": 86,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 522,
+    "types": [
+      "Grass"
+    ],
+    "name": "Leafeon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 110,
+    "defense": 130,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 523,
+    "types": [
+      "Ice"
+    ],
+    "name": "Glaceon",
+    "legendary": false,
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "speed": 65,
+    "generation": 4
+  },
+  {
+    "_id": 524,
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "name": "Gliscor",
+    "legendary": false,
+    "hp": 75,
+    "attack": 95,
+    "defense": 125,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 525,
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "name": "Mamoswine",
+    "legendary": false,
+    "hp": 110,
+    "attack": 130,
+    "defense": 80,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 526,
+    "types": [
+      "Normal"
+    ],
+    "name": "Porygon-Z",
+    "legendary": false,
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "speed": 90,
+    "generation": 4
+  },
+  {
+    "_id": 527,
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "name": "Gallade",
+    "legendary": false,
+    "hp": 68,
+    "attack": 125,
+    "defense": 65,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 528,
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "name": "Mega Gallade",
+    "legendary": false,
+    "hp": 68,
+    "attack": 165,
+    "defense": 95,
+    "speed": 110,
+    "generation": 4
+  },
+  {
+    "_id": 529,
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "name": "Probopass",
+    "legendary": false,
+    "hp": 60,
+    "attack": 55,
+    "defense": 145,
+    "speed": 40,
+    "generation": 4
+  },
+  {
+    "_id": 530,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Dusknoir",
+    "legendary": false,
+    "hp": 45,
+    "attack": 100,
+    "defense": 135,
+    "speed": 45,
+    "generation": 4
+  },
+  {
+    "_id": 531,
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "name": "Froslass",
+    "legendary": false,
+    "hp": 70,
+    "attack": 80,
+    "defense": 70,
+    "speed": 110,
+    "generation": 4
+  },
+  {
+    "_id": 532,
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
+    "name": "Rotom",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "speed": 91,
+    "generation": 4
+  },
+  {
+    "_id": 533,
+    "types": [
+      "Electric",
+      "Fire"
+    ],
+    "name": "Heat Rotom",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "speed": 86,
+    "generation": 4
+  },
+  {
+    "_id": 534,
+    "types": [
+      "Electric",
+      "Water"
+    ],
+    "name": "Wash Rotom",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "speed": 86,
+    "generation": 4
+  },
+  {
+    "_id": 535,
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "name": "Frost Rotom",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "speed": 86,
+    "generation": 4
+  },
+  {
+    "_id": 536,
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "name": "Fan Rotom",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "speed": 86,
+    "generation": 4
+  },
+  {
+    "_id": 537,
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "name": "Mow Rotom",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "speed": 86,
+    "generation": 4
+  },
+  {
+    "_id": 538,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Uxie",
+    "legendary": true,
+    "hp": 75,
+    "attack": 75,
+    "defense": 130,
+    "speed": 95,
+    "generation": 4
+  },
+  {
+    "_id": 539,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Mesprit",
+    "legendary": true,
+    "hp": 80,
+    "attack": 105,
+    "defense": 105,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 540,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Azelf",
+    "legendary": true,
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "speed": 115,
+    "generation": 4
+  },
+  {
+    "_id": 541,
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "name": "Dialga",
+    "legendary": true,
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "speed": 90,
+    "generation": 4
+  },
+  {
+    "_id": 542,
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "name": "Palkia",
+    "legendary": true,
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "speed": 100,
+    "generation": 4
+  },
+  {
+    "_id": 543,
+    "types": [
+      "Fire",
+      "Steel"
+    ],
+    "name": "Heatran",
+    "legendary": true,
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "speed": 77,
+    "generation": 4
+  },
+  {
+    "_id": 544,
+    "types": [
+      "Normal"
+    ],
+    "name": "Regigigas",
+    "legendary": true,
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "speed": 100,
+    "generation": 4
+  },
+  {
+    "_id": 545,
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "name": "Giratina Altered Forme",
+    "legendary": true,
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "speed": 90,
+    "generation": 4
+  },
+  {
+    "_id": 546,
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "name": "Giratina Origin Forme",
+    "legendary": true,
+    "hp": 150,
+    "attack": 120,
+    "defense": 100,
+    "speed": 90,
+    "generation": 4
+  },
+  {
+    "_id": 547,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Cresselia",
+    "legendary": false,
+    "hp": 120,
+    "attack": 70,
+    "defense": 120,
+    "speed": 85,
+    "generation": 4
+  },
+  {
+    "_id": 548,
+    "types": [
+      "Water"
+    ],
+    "name": "Phione",
+    "legendary": false,
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "speed": 80,
+    "generation": 4
+  },
+  {
+    "_id": 549,
+    "types": [
+      "Water"
+    ],
+    "name": "Manaphy",
+    "legendary": false,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "generation": 4
+  },
+  {
+    "_id": 550,
+    "types": [
+      "Dark"
+    ],
+    "name": "Darkrai",
+    "legendary": true,
+    "hp": 70,
+    "attack": 90,
+    "defense": 90,
+    "speed": 125,
+    "generation": 4
+  },
+  {
+    "_id": 551,
+    "types": [
+      "Grass"
+    ],
+    "name": "Shaymin Land Forme",
+    "legendary": true,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "generation": 4
+  },
+  {
+    "_id": 552,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "name": "Shaymin Sky Forme",
+    "legendary": true,
+    "hp": 100,
+    "attack": 103,
+    "defense": 75,
+    "speed": 127,
+    "generation": 4
+  },
+  {
+    "_id": 553,
+    "types": [
+      "Normal"
+    ],
+    "name": "Arceus",
+    "legendary": true,
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "speed": 120,
+    "generation": 4
+  },
+  {
+    "_id": 554,
+    "types": [
+      "Psychic",
+      "Fire"
+    ],
+    "name": "Victini",
+    "legendary": true,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "generation": 5
+  },
+  {
+    "_id": 555,
+    "types": [
+      "Grass"
+    ],
+    "name": "Snivy",
+    "legendary": false,
+    "hp": 45,
+    "attack": 45,
+    "defense": 55,
+    "speed": 63,
+    "generation": 5
+  },
+  {
+    "_id": 556,
+    "types": [
+      "Grass"
+    ],
+    "name": "Servine",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "speed": 83,
+    "generation": 5
+  },
+  {
+    "_id": 557,
+    "types": [
+      "Grass"
+    ],
+    "name": "Serperior",
+    "legendary": false,
+    "hp": 75,
+    "attack": 75,
+    "defense": 95,
+    "speed": 113,
+    "generation": 5
+  },
+  {
+    "_id": 558,
+    "types": [
+      "Fire"
+    ],
+    "name": "Tepig",
+    "legendary": false,
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "speed": 45,
+    "generation": 5
+  },
+  {
+    "_id": 559,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Pignite",
+    "legendary": false,
+    "hp": 90,
+    "attack": 93,
+    "defense": 55,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 560,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "name": "Emboar",
+    "legendary": false,
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 561,
+    "types": [
+      "Water"
+    ],
+    "name": "Oshawott",
+    "legendary": false,
+    "hp": 55,
+    "attack": 55,
+    "defense": 45,
+    "speed": 45,
+    "generation": 5
+  },
+  {
+    "_id": 562,
+    "types": [
+      "Water"
+    ],
+    "name": "Dewott",
+    "legendary": false,
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 563,
+    "types": [
+      "Water"
+    ],
+    "name": "Samurott",
+    "legendary": false,
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "speed": 70,
+    "generation": 5
+  },
+  {
+    "_id": 564,
+    "types": [
+      "Normal"
+    ],
+    "name": "Patrat",
+    "legendary": false,
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "speed": 42,
+    "generation": 5
+  },
+  {
+    "_id": 565,
+    "types": [
+      "Normal"
+    ],
+    "name": "Watchog",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "speed": 77,
+    "generation": 5
+  },
+  {
+    "_id": 566,
+    "types": [
+      "Normal"
+    ],
+    "name": "Lillipup",
+    "legendary": false,
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 567,
+    "types": [
+      "Normal"
+    ],
+    "name": "Herdier",
+    "legendary": false,
+    "hp": 65,
+    "attack": 80,
+    "defense": 65,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 568,
+    "types": [
+      "Normal"
+    ],
+    "name": "Stoutland",
+    "legendary": false,
+    "hp": 85,
+    "attack": 110,
+    "defense": 90,
+    "speed": 80,
+    "generation": 5
+  },
+  {
+    "_id": 569,
+    "types": [
+      "Dark"
+    ],
+    "name": "Purrloin",
+    "legendary": false,
+    "hp": 41,
+    "attack": 50,
+    "defense": 37,
+    "speed": 66,
+    "generation": 5
+  },
+  {
+    "_id": 570,
+    "types": [
+      "Dark"
+    ],
+    "name": "Liepard",
+    "legendary": false,
+    "hp": 64,
+    "attack": 88,
+    "defense": 50,
+    "speed": 106,
+    "generation": 5
+  },
+  {
+    "_id": 571,
+    "types": [
+      "Grass"
+    ],
+    "name": "Pansage",
+    "legendary": false,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "speed": 64,
+    "generation": 5
+  },
+  {
+    "_id": 572,
+    "types": [
+      "Grass"
+    ],
+    "name": "Simisage",
+    "legendary": false,
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "speed": 101,
+    "generation": 5
+  },
+  {
+    "_id": 573,
+    "types": [
+      "Fire"
+    ],
+    "name": "Pansear",
+    "legendary": false,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "speed": 64,
+    "generation": 5
+  },
+  {
+    "_id": 574,
+    "types": [
+      "Fire"
+    ],
+    "name": "Simisear",
+    "legendary": false,
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "speed": 101,
+    "generation": 5
+  },
+  {
+    "_id": 575,
+    "types": [
+      "Water"
+    ],
+    "name": "Panpour",
+    "legendary": false,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "speed": 64,
+    "generation": 5
+  },
+  {
+    "_id": 576,
+    "types": [
+      "Water"
+    ],
+    "name": "Simipour",
+    "legendary": false,
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "speed": 101,
+    "generation": 5
+  },
+  {
+    "_id": 577,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Munna",
+    "legendary": false,
+    "hp": 76,
+    "attack": 25,
+    "defense": 45,
+    "speed": 24,
+    "generation": 5
+  },
+  {
+    "_id": 578,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Musharna",
+    "legendary": false,
+    "hp": 116,
+    "attack": 55,
+    "defense": 85,
+    "speed": 29,
+    "generation": 5
+  },
+  {
+    "_id": 579,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Pidove",
+    "legendary": false,
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "speed": 43,
+    "generation": 5
+  },
+  {
+    "_id": 580,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Tranquill",
+    "legendary": false,
+    "hp": 62,
+    "attack": 77,
+    "defense": 62,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 581,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Unfezant",
+    "legendary": false,
+    "hp": 80,
+    "attack": 115,
+    "defense": 80,
+    "speed": 93,
+    "generation": 5
+  },
+  {
+    "_id": 582,
+    "types": [
+      "Electric"
+    ],
+    "name": "Blitzle",
+    "legendary": false,
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "speed": 76,
+    "generation": 5
+  },
+  {
+    "_id": 583,
+    "types": [
+      "Electric"
+    ],
+    "name": "Zebstrika",
+    "legendary": false,
+    "hp": 75,
+    "attack": 100,
+    "defense": 63,
+    "speed": 116,
+    "generation": 5
+  },
+  {
+    "_id": 584,
+    "types": [
+      "Rock"
+    ],
+    "name": "Roggenrola",
+    "legendary": false,
+    "hp": 55,
+    "attack": 75,
+    "defense": 85,
+    "speed": 15,
+    "generation": 5
+  },
+  {
+    "_id": 585,
+    "types": [
+      "Rock"
+    ],
+    "name": "Boldore",
+    "legendary": false,
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "speed": 20,
+    "generation": 5
+  },
+  {
+    "_id": 586,
+    "types": [
+      "Rock"
+    ],
+    "name": "Gigalith",
+    "legendary": false,
+    "hp": 85,
+    "attack": 135,
+    "defense": 130,
+    "speed": 25,
+    "generation": 5
+  },
+  {
+    "_id": 587,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "name": "Woobat",
+    "legendary": false,
+    "hp": 55,
+    "attack": 45,
+    "defense": 43,
+    "speed": 72,
+    "generation": 5
+  },
+  {
+    "_id": 588,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "name": "Swoobat",
+    "legendary": false,
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "speed": 114,
+    "generation": 5
+  },
+  {
+    "_id": 589,
+    "types": [
+      "Ground"
+    ],
+    "name": "Drilbur",
+    "legendary": false,
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "speed": 68,
+    "generation": 5
+  },
+  {
+    "_id": 590,
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "name": "Excadrill",
+    "legendary": false,
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "speed": 88,
+    "generation": 5
+  },
+  {
+    "_id": 591,
+    "types": [
+      "Normal"
+    ],
+    "name": "Audino",
+    "legendary": false,
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "speed": 50,
+    "generation": 5
+  },
+  {
+    "_id": 592,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "name": "Mega Audino",
+    "legendary": false,
+    "hp": 103,
+    "attack": 60,
+    "defense": 126,
+    "speed": 50,
+    "generation": 5
+  },
+  {
+    "_id": 593,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Timburr",
+    "legendary": false,
+    "hp": 75,
+    "attack": 80,
+    "defense": 55,
+    "speed": 35,
+    "generation": 5
+  },
+  {
+    "_id": 594,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Gurdurr",
+    "legendary": false,
+    "hp": 85,
+    "attack": 105,
+    "defense": 85,
+    "speed": 40,
+    "generation": 5
+  },
+  {
+    "_id": 595,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Conkeldurr",
+    "legendary": false,
+    "hp": 105,
+    "attack": 140,
+    "defense": 95,
+    "speed": 45,
+    "generation": 5
+  },
+  {
+    "_id": 596,
+    "types": [
+      "Water"
+    ],
+    "name": "Tympole",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "speed": 64,
+    "generation": 5
+  },
+  {
+    "_id": 597,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Palpitoad",
+    "legendary": false,
+    "hp": 75,
+    "attack": 65,
+    "defense": 55,
+    "speed": 69,
+    "generation": 5
+  },
+  {
+    "_id": 598,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "name": "Seismitoad",
+    "legendary": false,
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "speed": 74,
+    "generation": 5
+  },
+  {
+    "_id": 599,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Throh",
+    "legendary": false,
+    "hp": 120,
+    "attack": 100,
+    "defense": 85,
+    "speed": 45,
+    "generation": 5
+  },
+  {
+    "_id": 600,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Sawk",
+    "legendary": false,
+    "hp": 75,
+    "attack": 125,
+    "defense": 75,
+    "speed": 85,
+    "generation": 5
+  },
+  {
+    "_id": 601,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "name": "Sewaddle",
+    "legendary": false,
+    "hp": 45,
+    "attack": 53,
+    "defense": 70,
+    "speed": 42,
+    "generation": 5
+  },
+  {
+    "_id": 602,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "name": "Swadloon",
+    "legendary": false,
+    "hp": 55,
+    "attack": 63,
+    "defense": 90,
+    "speed": 42,
+    "generation": 5
+  },
+  {
+    "_id": 603,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "name": "Leavanny",
+    "legendary": false,
+    "hp": 75,
+    "attack": 103,
+    "defense": 80,
+    "speed": 92,
+    "generation": 5
+  },
+  {
+    "_id": 604,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Venipede",
+    "legendary": false,
+    "hp": 30,
+    "attack": 45,
+    "defense": 59,
+    "speed": 57,
+    "generation": 5
+  },
+  {
+    "_id": 605,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Whirlipede",
+    "legendary": false,
+    "hp": 40,
+    "attack": 55,
+    "defense": 99,
+    "speed": 47,
+    "generation": 5
+  },
+  {
+    "_id": 606,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "name": "Scolipede",
+    "legendary": false,
+    "hp": 60,
+    "attack": 100,
+    "defense": 89,
+    "speed": 112,
+    "generation": 5
+  },
+  {
+    "_id": 607,
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "name": "Cottonee",
+    "legendary": false,
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "speed": 66,
+    "generation": 5
+  },
+  {
+    "_id": 608,
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "name": "Whimsicott",
+    "legendary": false,
+    "hp": 60,
+    "attack": 67,
+    "defense": 85,
+    "speed": 116,
+    "generation": 5
+  },
+  {
+    "_id": 609,
+    "types": [
+      "Grass"
+    ],
+    "name": "Petilil",
+    "legendary": false,
+    "hp": 45,
+    "attack": 35,
+    "defense": 50,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 610,
+    "types": [
+      "Grass"
+    ],
+    "name": "Lilligant",
+    "legendary": false,
+    "hp": 70,
+    "attack": 60,
+    "defense": 75,
+    "speed": 90,
+    "generation": 5
+  },
+  {
+    "_id": 611,
+    "types": [
+      "Water"
+    ],
+    "name": "Basculin",
+    "legendary": false,
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "speed": 98,
+    "generation": 5
+  },
+  {
+    "_id": 612,
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "name": "Sandile",
+    "legendary": false,
+    "hp": 50,
+    "attack": 72,
+    "defense": 35,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 613,
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "name": "Krokorok",
+    "legendary": false,
+    "hp": 60,
+    "attack": 82,
+    "defense": 45,
+    "speed": 74,
+    "generation": 5
+  },
+  {
+    "_id": 614,
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "name": "Krookodile",
+    "legendary": false,
+    "hp": 95,
+    "attack": 117,
+    "defense": 80,
+    "speed": 92,
+    "generation": 5
+  },
+  {
+    "_id": 615,
+    "types": [
+      "Fire"
+    ],
+    "name": "Darumaka",
+    "legendary": false,
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "speed": 50,
+    "generation": 5
+  },
+  {
+    "_id": 616,
+    "types": [
+      "Fire"
+    ],
+    "name": "Darmanitan Standard Mode",
+    "legendary": false,
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "speed": 95,
+    "generation": 5
+  },
+  {
+    "_id": 617,
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "name": "Darmanitan Zen Mode",
+    "legendary": false,
+    "hp": 105,
+    "attack": 30,
+    "defense": 105,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 618,
+    "types": [
+      "Grass"
+    ],
+    "name": "Maractus",
+    "legendary": false,
+    "hp": 75,
+    "attack": 86,
+    "defense": 67,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 619,
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "name": "Dwebble",
+    "legendary": false,
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 620,
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "name": "Crustle",
+    "legendary": false,
+    "hp": 70,
+    "attack": 95,
+    "defense": 125,
+    "speed": 45,
+    "generation": 5
+  },
+  {
+    "_id": 621,
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "name": "Scraggy",
+    "legendary": false,
+    "hp": 50,
+    "attack": 75,
+    "defense": 70,
+    "speed": 48,
+    "generation": 5
+  },
+  {
+    "_id": 622,
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "name": "Scrafty",
+    "legendary": false,
+    "hp": 65,
+    "attack": 90,
+    "defense": 115,
+    "speed": 58,
+    "generation": 5
+  },
+  {
+    "_id": 623,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "name": "Sigilyph",
+    "legendary": false,
+    "hp": 72,
+    "attack": 58,
+    "defense": 80,
+    "speed": 97,
+    "generation": 5
+  },
+  {
+    "_id": 624,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Yamask",
+    "legendary": false,
+    "hp": 38,
+    "attack": 30,
+    "defense": 85,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 625,
+    "types": [
+      "Ghost"
+    ],
+    "name": "Cofagrigus",
+    "legendary": false,
+    "hp": 58,
+    "attack": 50,
+    "defense": 145,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 626,
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "name": "Tirtouga",
+    "legendary": false,
+    "hp": 54,
+    "attack": 78,
+    "defense": 103,
+    "speed": 22,
+    "generation": 5
+  },
+  {
+    "_id": 627,
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "name": "Carracosta",
+    "legendary": false,
+    "hp": 74,
+    "attack": 108,
+    "defense": 133,
+    "speed": 32,
+    "generation": 5
+  },
+  {
+    "_id": 628,
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "name": "Archen",
+    "legendary": false,
+    "hp": 55,
+    "attack": 112,
+    "defense": 45,
+    "speed": 70,
+    "generation": 5
+  },
+  {
+    "_id": 629,
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "name": "Archeops",
+    "legendary": false,
+    "hp": 75,
+    "attack": 140,
+    "defense": 65,
+    "speed": 110,
+    "generation": 5
+  },
+  {
+    "_id": 630,
+    "types": [
+      "Poison"
+    ],
+    "name": "Trubbish",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 631,
+    "types": [
+      "Poison"
+    ],
+    "name": "Garbodor",
+    "legendary": false,
+    "hp": 80,
+    "attack": 95,
+    "defense": 82,
+    "speed": 75,
+    "generation": 5
+  },
+  {
+    "_id": 632,
+    "types": [
+      "Dark"
+    ],
+    "name": "Zorua",
+    "legendary": false,
+    "hp": 40,
+    "attack": 65,
+    "defense": 40,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 633,
+    "types": [
+      "Dark"
+    ],
+    "name": "Zoroark",
+    "legendary": false,
+    "hp": 60,
+    "attack": 105,
+    "defense": 60,
+    "speed": 105,
+    "generation": 5
+  },
+  {
+    "_id": 634,
+    "types": [
+      "Normal"
+    ],
+    "name": "Minccino",
+    "legendary": false,
+    "hp": 55,
+    "attack": 50,
+    "defense": 40,
+    "speed": 75,
+    "generation": 5
+  },
+  {
+    "_id": 635,
+    "types": [
+      "Normal"
+    ],
+    "name": "Cinccino",
+    "legendary": false,
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "speed": 115,
+    "generation": 5
+  },
+  {
+    "_id": 636,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Gothita",
+    "legendary": false,
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "speed": 45,
+    "generation": 5
+  },
+  {
+    "_id": 637,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Gothorita",
+    "legendary": false,
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 638,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Gothitelle",
+    "legendary": false,
+    "hp": 70,
+    "attack": 55,
+    "defense": 95,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 639,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Solosis",
+    "legendary": false,
+    "hp": 45,
+    "attack": 30,
+    "defense": 40,
+    "speed": 20,
+    "generation": 5
+  },
+  {
+    "_id": 640,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Duosion",
+    "legendary": false,
+    "hp": 65,
+    "attack": 40,
+    "defense": 50,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 641,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Reuniclus",
+    "legendary": false,
+    "hp": 110,
+    "attack": 65,
+    "defense": 75,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 642,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Ducklett",
+    "legendary": false,
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 643,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "name": "Swanna",
+    "legendary": false,
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "speed": 98,
+    "generation": 5
+  },
+  {
+    "_id": 644,
+    "types": [
+      "Ice"
+    ],
+    "name": "Vanillite",
+    "legendary": false,
+    "hp": 36,
+    "attack": 50,
+    "defense": 50,
+    "speed": 44,
+    "generation": 5
+  },
+  {
+    "_id": 645,
+    "types": [
+      "Ice"
+    ],
+    "name": "Vanillish",
+    "legendary": false,
+    "hp": 51,
+    "attack": 65,
+    "defense": 65,
+    "speed": 59,
+    "generation": 5
+  },
+  {
+    "_id": 646,
+    "types": [
+      "Ice"
+    ],
+    "name": "Vanilluxe",
+    "legendary": false,
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "speed": 79,
+    "generation": 5
+  },
+  {
+    "_id": 647,
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "name": "Deerling",
+    "legendary": false,
+    "hp": 60,
+    "attack": 60,
+    "defense": 50,
+    "speed": 75,
+    "generation": 5
+  },
+  {
+    "_id": 648,
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "name": "Sawsbuck",
+    "legendary": false,
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "speed": 95,
+    "generation": 5
+  },
+  {
+    "_id": 649,
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "name": "Emolga",
+    "legendary": false,
+    "hp": 55,
+    "attack": 75,
+    "defense": 60,
+    "speed": 103,
+    "generation": 5
+  },
+  {
+    "_id": 650,
+    "types": [
+      "Bug"
+    ],
+    "name": "Karrablast",
+    "legendary": false,
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 651,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Escavalier",
+    "legendary": false,
+    "hp": 70,
+    "attack": 135,
+    "defense": 105,
+    "speed": 20,
+    "generation": 5
+  },
+  {
+    "_id": 652,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Foongus",
+    "legendary": false,
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "speed": 15,
+    "generation": 5
+  },
+  {
+    "_id": 653,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "name": "Amoonguss",
+    "legendary": false,
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 654,
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "name": "Frillish",
+    "legendary": false,
+    "hp": 55,
+    "attack": 40,
+    "defense": 50,
+    "speed": 40,
+    "generation": 5
+  },
+  {
+    "_id": 655,
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "name": "Jellicent",
+    "legendary": false,
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 656,
+    "types": [
+      "Water"
+    ],
+    "name": "Alomomola",
+    "legendary": false,
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 657,
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "name": "Joltik",
+    "legendary": false,
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 658,
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "name": "Galvantula",
+    "legendary": false,
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "speed": 108,
+    "generation": 5
+  },
+  {
+    "_id": 659,
+    "types": [
+      "Grass",
+      "Steel"
+    ],
+    "name": "Ferroseed",
+    "legendary": false,
+    "hp": 44,
+    "attack": 50,
+    "defense": 91,
+    "speed": 10,
+    "generation": 5
+  },
+  {
+    "_id": 660,
+    "types": [
+      "Grass",
+      "Steel"
+    ],
+    "name": "Ferrothorn",
+    "legendary": false,
+    "hp": 74,
+    "attack": 94,
+    "defense": 131,
+    "speed": 20,
+    "generation": 5
+  },
+  {
+    "_id": 661,
+    "types": [
+      "Steel"
+    ],
+    "name": "Klink",
+    "legendary": false,
+    "hp": 40,
+    "attack": 55,
+    "defense": 70,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 662,
+    "types": [
+      "Steel"
+    ],
+    "name": "Klang",
+    "legendary": false,
+    "hp": 60,
+    "attack": 80,
+    "defense": 95,
+    "speed": 50,
+    "generation": 5
+  },
+  {
+    "_id": 663,
+    "types": [
+      "Steel"
+    ],
+    "name": "Klinklang",
+    "legendary": false,
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "speed": 90,
+    "generation": 5
+  },
+  {
+    "_id": 664,
+    "types": [
+      "Electric"
+    ],
+    "name": "Tynamo",
+    "legendary": false,
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 665,
+    "types": [
+      "Electric"
+    ],
+    "name": "Eelektrik",
+    "legendary": false,
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "speed": 40,
+    "generation": 5
+  },
+  {
+    "_id": 666,
+    "types": [
+      "Electric"
+    ],
+    "name": "Eelektross",
+    "legendary": false,
+    "hp": 85,
+    "attack": 115,
+    "defense": 80,
+    "speed": 50,
+    "generation": 5
+  },
+  {
+    "_id": 667,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Elgyem",
+    "legendary": false,
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "speed": 30,
+    "generation": 5
+  },
+  {
+    "_id": 668,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Beheeyem",
+    "legendary": false,
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "speed": 40,
+    "generation": 5
+  },
+  {
+    "_id": 669,
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "name": "Litwick",
+    "legendary": false,
+    "hp": 50,
+    "attack": 30,
+    "defense": 55,
+    "speed": 20,
+    "generation": 5
+  },
+  {
+    "_id": 670,
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "name": "Lampent",
+    "legendary": false,
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 671,
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "name": "Chandelure",
+    "legendary": false,
+    "hp": 60,
+    "attack": 55,
+    "defense": 90,
+    "speed": 80,
+    "generation": 5
+  },
+  {
+    "_id": 672,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Axew",
+    "legendary": false,
+    "hp": 46,
+    "attack": 87,
+    "defense": 60,
+    "speed": 57,
+    "generation": 5
+  },
+  {
+    "_id": 673,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Fraxure",
+    "legendary": false,
+    "hp": 66,
+    "attack": 117,
+    "defense": 70,
+    "speed": 67,
+    "generation": 5
+  },
+  {
+    "_id": 674,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Haxorus",
+    "legendary": false,
+    "hp": 76,
+    "attack": 147,
+    "defense": 90,
+    "speed": 97,
+    "generation": 5
+  },
+  {
+    "_id": 675,
+    "types": [
+      "Ice"
+    ],
+    "name": "Cubchoo",
+    "legendary": false,
+    "hp": 55,
+    "attack": 70,
+    "defense": 40,
+    "speed": 40,
+    "generation": 5
+  },
+  {
+    "_id": 676,
+    "types": [
+      "Ice"
+    ],
+    "name": "Beartic",
+    "legendary": false,
+    "hp": 95,
+    "attack": 110,
+    "defense": 80,
+    "speed": 50,
+    "generation": 5
+  },
+  {
+    "_id": 677,
+    "types": [
+      "Ice"
+    ],
+    "name": "Cryogonal",
+    "legendary": false,
+    "hp": 70,
+    "attack": 50,
+    "defense": 30,
+    "speed": 105,
+    "generation": 5
+  },
+  {
+    "_id": 678,
+    "types": [
+      "Bug"
+    ],
+    "name": "Shelmet",
+    "legendary": false,
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "speed": 25,
+    "generation": 5
+  },
+  {
+    "_id": 679,
+    "types": [
+      "Bug"
+    ],
+    "name": "Accelgor",
+    "legendary": false,
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "speed": 145,
+    "generation": 5
+  },
+  {
+    "_id": 680,
+    "types": [
+      "Ground",
+      "Electric"
+    ],
+    "name": "Stunfisk",
+    "legendary": false,
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "speed": 32,
+    "generation": 5
+  },
+  {
+    "_id": 681,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Mienfoo",
+    "legendary": false,
+    "hp": 45,
+    "attack": 85,
+    "defense": 50,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 682,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Mienshao",
+    "legendary": false,
+    "hp": 65,
+    "attack": 125,
+    "defense": 60,
+    "speed": 105,
+    "generation": 5
+  },
+  {
+    "_id": 683,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Druddigon",
+    "legendary": false,
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "speed": 48,
+    "generation": 5
+  },
+  {
+    "_id": 684,
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "name": "Golett",
+    "legendary": false,
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "speed": 35,
+    "generation": 5
+  },
+  {
+    "_id": 685,
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "name": "Golurk",
+    "legendary": false,
+    "hp": 89,
+    "attack": 124,
+    "defense": 80,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 686,
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "name": "Pawniard",
+    "legendary": false,
+    "hp": 45,
+    "attack": 85,
+    "defense": 70,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 687,
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "name": "Bisharp",
+    "legendary": false,
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "speed": 70,
+    "generation": 5
+  },
+  {
+    "_id": 688,
+    "types": [
+      "Normal"
+    ],
+    "name": "Bouffalant",
+    "legendary": false,
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "speed": 55,
+    "generation": 5
+  },
+  {
+    "_id": 689,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Rufflet",
+    "legendary": false,
+    "hp": 70,
+    "attack": 83,
+    "defense": 50,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 690,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Braviary",
+    "legendary": false,
+    "hp": 100,
+    "attack": 123,
+    "defense": 75,
+    "speed": 80,
+    "generation": 5
+  },
+  {
+    "_id": 691,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "name": "Vullaby",
+    "legendary": false,
+    "hp": 70,
+    "attack": 55,
+    "defense": 75,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 692,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "name": "Mandibuzz",
+    "legendary": false,
+    "hp": 110,
+    "attack": 65,
+    "defense": 105,
+    "speed": 80,
+    "generation": 5
+  },
+  {
+    "_id": 693,
+    "types": [
+      "Fire"
+    ],
+    "name": "Heatmor",
+    "legendary": false,
+    "hp": 85,
+    "attack": 97,
+    "defense": 66,
+    "speed": 65,
+    "generation": 5
+  },
+  {
+    "_id": 694,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Durant",
+    "legendary": false,
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "speed": 109,
+    "generation": 5
+  },
+  {
+    "_id": 695,
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "name": "Deino",
+    "legendary": false,
+    "hp": 52,
+    "attack": 65,
+    "defense": 50,
+    "speed": 38,
+    "generation": 5
+  },
+  {
+    "_id": 696,
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "name": "Zweilous",
+    "legendary": false,
+    "hp": 72,
+    "attack": 85,
+    "defense": 70,
+    "speed": 58,
+    "generation": 5
+  },
+  {
+    "_id": 697,
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "name": "Hydreigon",
+    "legendary": false,
+    "hp": 92,
+    "attack": 105,
+    "defense": 90,
+    "speed": 98,
+    "generation": 5
+  },
+  {
+    "_id": 698,
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "name": "Larvesta",
+    "legendary": false,
+    "hp": 55,
+    "attack": 85,
+    "defense": 55,
+    "speed": 60,
+    "generation": 5
+  },
+  {
+    "_id": 699,
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "name": "Volcarona",
+    "legendary": false,
+    "hp": 85,
+    "attack": 60,
+    "defense": 65,
+    "speed": 100,
+    "generation": 5
+  },
+  {
+    "_id": 700,
+    "types": [
+      "Steel",
+      "Fighting"
+    ],
+    "name": "Cobalion",
+    "legendary": true,
+    "hp": 91,
+    "attack": 90,
+    "defense": 129,
+    "speed": 108,
+    "generation": 5
+  },
+  {
+    "_id": 701,
+    "types": [
+      "Rock",
+      "Fighting"
+    ],
+    "name": "Terrakion",
+    "legendary": true,
+    "hp": 91,
+    "attack": 129,
+    "defense": 90,
+    "speed": 108,
+    "generation": 5
+  },
+  {
+    "_id": 702,
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "name": "Virizion",
+    "legendary": true,
+    "hp": 91,
+    "attack": 90,
+    "defense": 72,
+    "speed": 108,
+    "generation": 5
+  },
+  {
+    "_id": 703,
+    "types": [
+      "Flying"
+    ],
+    "name": "Tornadus Incarnate Forme",
+    "legendary": true,
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "speed": 111,
+    "generation": 5
+  },
+  {
+    "_id": 704,
+    "types": [
+      "Flying"
+    ],
+    "name": "Tornadus Therian Forme",
+    "legendary": true,
+    "hp": 79,
+    "attack": 100,
+    "defense": 80,
+    "speed": 121,
+    "generation": 5
+  },
+  {
+    "_id": 705,
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "name": "Thundurus Incarnate Forme",
+    "legendary": true,
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "speed": 111,
+    "generation": 5
+  },
+  {
+    "_id": 706,
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "name": "Thundurus Therian Forme",
+    "legendary": true,
+    "hp": 79,
+    "attack": 105,
+    "defense": 70,
+    "speed": 101,
+    "generation": 5
+  },
+  {
+    "_id": 707,
+    "types": [
+      "Dragon",
+      "Fire"
+    ],
+    "name": "Reshiram",
+    "legendary": true,
+    "hp": 100,
+    "attack": 120,
+    "defense": 100,
+    "speed": 90,
+    "generation": 5
+  },
+  {
+    "_id": 708,
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "name": "Zekrom",
+    "legendary": true,
+    "hp": 100,
+    "attack": 150,
+    "defense": 120,
+    "speed": 90,
+    "generation": 5
+  },
+  {
+    "_id": 709,
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "name": "Landorus Incarnate Forme",
+    "legendary": true,
+    "hp": 89,
+    "attack": 125,
+    "defense": 90,
+    "speed": 101,
+    "generation": 5
+  },
+  {
+    "_id": 710,
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "name": "Landorus Therian Forme",
+    "legendary": true,
+    "hp": 89,
+    "attack": 145,
+    "defense": 90,
+    "speed": 91,
+    "generation": 5
+  },
+  {
+    "_id": 711,
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "name": "Kyurem",
+    "legendary": true,
+    "hp": 125,
+    "attack": 130,
+    "defense": 90,
+    "speed": 95,
+    "generation": 5
+  },
+  {
+    "_id": 712,
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "name": "Kyurem Black Kyurem",
+    "legendary": true,
+    "hp": 125,
+    "attack": 170,
+    "defense": 100,
+    "speed": 95,
+    "generation": 5
+  },
+  {
+    "_id": 713,
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "name": "Kyurem White Kyurem",
+    "legendary": true,
+    "hp": 125,
+    "attack": 120,
+    "defense": 90,
+    "speed": 95,
+    "generation": 5
+  },
+  {
+    "_id": 714,
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "name": "Keldeo Ordinary Forme",
+    "legendary": false,
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "speed": 108,
+    "generation": 5
+  },
+  {
+    "_id": 715,
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "name": "Keldeo Resolute Forme",
+    "legendary": false,
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "speed": 108,
+    "generation": 5
+  },
+  {
+    "_id": 716,
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "name": "Meloetta Aria Forme",
+    "legendary": false,
+    "hp": 100,
+    "attack": 77,
+    "defense": 77,
+    "speed": 90,
+    "generation": 5
+  },
+  {
+    "_id": 717,
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
+    "name": "Meloetta Pirouette Forme",
+    "legendary": false,
+    "hp": 100,
+    "attack": 128,
+    "defense": 90,
+    "speed": 128,
+    "generation": 5
+  },
+  {
+    "_id": 718,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "name": "Genesect",
+    "legendary": false,
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "speed": 99,
+    "generation": 5
+  },
+  {
+    "_id": 719,
+    "types": [
+      "Grass"
+    ],
+    "name": "Chespin",
+    "legendary": false,
+    "hp": 56,
+    "attack": 61,
+    "defense": 65,
+    "speed": 38,
+    "generation": 6
+  },
+  {
+    "_id": 720,
+    "types": [
+      "Grass"
+    ],
+    "name": "Quilladin",
+    "legendary": false,
+    "hp": 61,
+    "attack": 78,
+    "defense": 95,
+    "speed": 57,
+    "generation": 6
+  },
+  {
+    "_id": 721,
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "name": "Chesnaught",
+    "legendary": false,
+    "hp": 88,
+    "attack": 107,
+    "defense": 122,
+    "speed": 64,
+    "generation": 6
+  },
+  {
+    "_id": 722,
+    "types": [
+      "Fire"
+    ],
+    "name": "Fennekin",
+    "legendary": false,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "speed": 60,
+    "generation": 6
+  },
+  {
+    "_id": 723,
+    "types": [
+      "Fire"
+    ],
+    "name": "Braixen",
+    "legendary": false,
+    "hp": 59,
+    "attack": 59,
+    "defense": 58,
+    "speed": 73,
+    "generation": 6
+  },
+  {
+    "_id": 724,
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "name": "Delphox",
+    "legendary": false,
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "speed": 104,
+    "generation": 6
+  },
+  {
+    "_id": 725,
+    "types": [
+      "Water"
+    ],
+    "name": "Froakie",
+    "legendary": false,
+    "hp": 41,
+    "attack": 56,
+    "defense": 40,
+    "speed": 71,
+    "generation": 6
+  },
+  {
+    "_id": 726,
+    "types": [
+      "Water"
+    ],
+    "name": "Frogadier",
+    "legendary": false,
+    "hp": 54,
+    "attack": 63,
+    "defense": 52,
+    "speed": 97,
+    "generation": 6
+  },
+  {
+    "_id": 727,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "name": "Greninja",
+    "legendary": false,
+    "hp": 72,
+    "attack": 95,
+    "defense": 67,
+    "speed": 122,
+    "generation": 6
+  },
+  {
+    "_id": 728,
+    "types": [
+      "Normal"
+    ],
+    "name": "Bunnelby",
+    "legendary": false,
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "speed": 57,
+    "generation": 6
+  },
+  {
+    "_id": 729,
+    "types": [
+      "Normal",
+      "Ground"
+    ],
+    "name": "Diggersby",
+    "legendary": false,
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "speed": 78,
+    "generation": 6
+  },
+  {
+    "_id": 730,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "name": "Fletchling",
+    "legendary": false,
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "speed": 62,
+    "generation": 6
+  },
+  {
+    "_id": 731,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "name": "Fletchinder",
+    "legendary": false,
+    "hp": 62,
+    "attack": 73,
+    "defense": 55,
+    "speed": 84,
+    "generation": 6
+  },
+  {
+    "_id": 732,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "name": "Talonflame",
+    "legendary": false,
+    "hp": 78,
+    "attack": 81,
+    "defense": 71,
+    "speed": 126,
+    "generation": 6
+  },
+  {
+    "_id": 733,
+    "types": [
+      "Bug"
+    ],
+    "name": "Scatterbug",
+    "legendary": false,
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "speed": 35,
+    "generation": 6
+  },
+  {
+    "_id": 734,
+    "types": [
+      "Bug"
+    ],
+    "name": "Spewpa",
+    "legendary": false,
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "speed": 29,
+    "generation": 6
+  },
+  {
+    "_id": 735,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "name": "Vivillon",
+    "legendary": false,
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "speed": 89,
+    "generation": 6
+  },
+  {
+    "_id": 736,
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "name": "Litleo",
+    "legendary": false,
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "speed": 72,
+    "generation": 6
+  },
+  {
+    "_id": 737,
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "name": "Pyroar",
+    "legendary": false,
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "speed": 106,
+    "generation": 6
+  },
+  {
+    "_id": 738,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Flab\u00e9b\u00e9",
+    "legendary": false,
+    "hp": 44,
+    "attack": 38,
+    "defense": 39,
+    "speed": 42,
+    "generation": 6
+  },
+  {
+    "_id": 739,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Floette",
+    "legendary": false,
+    "hp": 54,
+    "attack": 45,
+    "defense": 47,
+    "speed": 52,
+    "generation": 6
+  },
+  {
+    "_id": 740,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Florges",
+    "legendary": false,
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "speed": 75,
+    "generation": 6
+  },
+  {
+    "_id": 741,
+    "types": [
+      "Grass"
+    ],
+    "name": "Skiddo",
+    "legendary": false,
+    "hp": 66,
+    "attack": 65,
+    "defense": 48,
+    "speed": 52,
+    "generation": 6
+  },
+  {
+    "_id": 742,
+    "types": [
+      "Grass"
+    ],
+    "name": "Gogoat",
+    "legendary": false,
+    "hp": 123,
+    "attack": 100,
+    "defense": 62,
+    "speed": 68,
+    "generation": 6
+  },
+  {
+    "_id": 743,
+    "types": [
+      "Fighting"
+    ],
+    "name": "Pancham",
+    "legendary": false,
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "speed": 43,
+    "generation": 6
+  },
+  {
+    "_id": 744,
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
+    "name": "Pangoro",
+    "legendary": false,
+    "hp": 95,
+    "attack": 124,
+    "defense": 78,
+    "speed": 58,
+    "generation": 6
+  },
+  {
+    "_id": 745,
+    "types": [
+      "Normal"
+    ],
+    "name": "Furfrou",
+    "legendary": false,
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "speed": 102,
+    "generation": 6
+  },
+  {
+    "_id": 746,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Espurr",
+    "legendary": false,
+    "hp": 62,
+    "attack": 48,
+    "defense": 54,
+    "speed": 68,
+    "generation": 6
+  },
+  {
+    "_id": 747,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Meowstic Male",
+    "legendary": false,
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "speed": 104,
+    "generation": 6
+  },
+  {
+    "_id": 748,
+    "types": [
+      "Psychic"
+    ],
+    "name": "Meowstic Female",
+    "legendary": false,
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "speed": 104,
+    "generation": 6
+  },
+  {
+    "_id": 749,
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "name": "Honedge",
+    "legendary": false,
+    "hp": 45,
+    "attack": 80,
+    "defense": 100,
+    "speed": 28,
+    "generation": 6
+  },
+  {
+    "_id": 750,
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "name": "Doublade",
+    "legendary": false,
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "speed": 35,
+    "generation": 6
+  },
+  {
+    "_id": 751,
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "name": "Aegislash Blade Forme",
+    "legendary": false,
+    "hp": 60,
+    "attack": 150,
+    "defense": 50,
+    "speed": 60,
+    "generation": 6
+  },
+  {
+    "_id": 752,
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "name": "Aegislash Shield Forme",
+    "legendary": false,
+    "hp": 60,
+    "attack": 50,
+    "defense": 150,
+    "speed": 60,
+    "generation": 6
+  },
+  {
+    "_id": 753,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Spritzee",
+    "legendary": false,
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "speed": 23,
+    "generation": 6
+  },
+  {
+    "_id": 754,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Aromatisse",
+    "legendary": false,
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "speed": 29,
+    "generation": 6
+  },
+  {
+    "_id": 755,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Swirlix",
+    "legendary": false,
+    "hp": 62,
+    "attack": 48,
+    "defense": 66,
+    "speed": 49,
+    "generation": 6
+  },
+  {
+    "_id": 756,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Slurpuff",
+    "legendary": false,
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "speed": 72,
+    "generation": 6
+  },
+  {
+    "_id": 757,
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "name": "Inkay",
+    "legendary": false,
+    "hp": 53,
+    "attack": 54,
+    "defense": 53,
+    "speed": 45,
+    "generation": 6
+  },
+  {
+    "_id": 758,
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "name": "Malamar",
+    "legendary": false,
+    "hp": 86,
+    "attack": 92,
+    "defense": 88,
+    "speed": 73,
+    "generation": 6
+  },
+  {
+    "_id": 759,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "name": "Binacle",
+    "legendary": false,
+    "hp": 42,
+    "attack": 52,
+    "defense": 67,
+    "speed": 50,
+    "generation": 6
+  },
+  {
+    "_id": 760,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "name": "Barbaracle",
+    "legendary": false,
+    "hp": 72,
+    "attack": 105,
+    "defense": 115,
+    "speed": 68,
+    "generation": 6
+  },
+  {
+    "_id": 761,
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "name": "Skrelp",
+    "legendary": false,
+    "hp": 50,
+    "attack": 60,
+    "defense": 60,
+    "speed": 30,
+    "generation": 6
+  },
+  {
+    "_id": 762,
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "name": "Dragalge",
+    "legendary": false,
+    "hp": 65,
+    "attack": 75,
+    "defense": 90,
+    "speed": 44,
+    "generation": 6
+  },
+  {
+    "_id": 763,
+    "types": [
+      "Water"
+    ],
+    "name": "Clauncher",
+    "legendary": false,
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "speed": 44,
+    "generation": 6
+  },
+  {
+    "_id": 764,
+    "types": [
+      "Water"
+    ],
+    "name": "Clawitzer",
+    "legendary": false,
+    "hp": 71,
+    "attack": 73,
+    "defense": 88,
+    "speed": 59,
+    "generation": 6
+  },
+  {
+    "_id": 765,
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "name": "Helioptile",
+    "legendary": false,
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "speed": 70,
+    "generation": 6
+  },
+  {
+    "_id": 766,
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "name": "Heliolisk",
+    "legendary": false,
+    "hp": 62,
+    "attack": 55,
+    "defense": 52,
+    "speed": 109,
+    "generation": 6
+  },
+  {
+    "_id": 767,
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "name": "Tyrunt",
+    "legendary": false,
+    "hp": 58,
+    "attack": 89,
+    "defense": 77,
+    "speed": 48,
+    "generation": 6
+  },
+  {
+    "_id": 768,
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "name": "Tyrantrum",
+    "legendary": false,
+    "hp": 82,
+    "attack": 121,
+    "defense": 119,
+    "speed": 71,
+    "generation": 6
+  },
+  {
+    "_id": 769,
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "name": "Amaura",
+    "legendary": false,
+    "hp": 77,
+    "attack": 59,
+    "defense": 50,
+    "speed": 46,
+    "generation": 6
+  },
+  {
+    "_id": 770,
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "name": "Aurorus",
+    "legendary": false,
+    "hp": 123,
+    "attack": 77,
+    "defense": 72,
+    "speed": 58,
+    "generation": 6
+  },
+  {
+    "_id": 771,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Sylveon",
+    "legendary": false,
+    "hp": 95,
+    "attack": 65,
+    "defense": 65,
+    "speed": 60,
+    "generation": 6
+  },
+  {
+    "_id": 772,
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "name": "Hawlucha",
+    "legendary": false,
+    "hp": 78,
+    "attack": 92,
+    "defense": 75,
+    "speed": 118,
+    "generation": 6
+  },
+  {
+    "_id": 773,
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "name": "Dedenne",
+    "legendary": false,
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "speed": 101,
+    "generation": 6
+  },
+  {
+    "_id": 774,
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "name": "Carbink",
+    "legendary": false,
+    "hp": 50,
+    "attack": 50,
+    "defense": 150,
+    "speed": 50,
+    "generation": 6
+  },
+  {
+    "_id": 775,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Goomy",
+    "legendary": false,
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "speed": 40,
+    "generation": 6
+  },
+  {
+    "_id": 776,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Sliggoo",
+    "legendary": false,
+    "hp": 68,
+    "attack": 75,
+    "defense": 53,
+    "speed": 60,
+    "generation": 6
+  },
+  {
+    "_id": 777,
+    "types": [
+      "Dragon"
+    ],
+    "name": "Goodra",
+    "legendary": false,
+    "hp": 90,
+    "attack": 100,
+    "defense": 70,
+    "speed": 80,
+    "generation": 6
+  },
+  {
+    "_id": 778,
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "name": "Klefki",
+    "legendary": false,
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "speed": 75,
+    "generation": 6
+  },
+  {
+    "_id": 779,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Phantump",
+    "legendary": false,
+    "hp": 43,
+    "attack": 70,
+    "defense": 48,
+    "speed": 38,
+    "generation": 6
+  },
+  {
+    "_id": 780,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Trevenant",
+    "legendary": false,
+    "hp": 85,
+    "attack": 110,
+    "defense": 76,
+    "speed": 56,
+    "generation": 6
+  },
+  {
+    "_id": 781,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Pumpkaboo Average Size",
+    "legendary": false,
+    "hp": 49,
+    "attack": 66,
+    "defense": 70,
+    "speed": 51,
+    "generation": 6
+  },
+  {
+    "_id": 782,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Pumpkaboo Small Size",
+    "legendary": false,
+    "hp": 44,
+    "attack": 66,
+    "defense": 70,
+    "speed": 56,
+    "generation": 6
+  },
+  {
+    "_id": 783,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Pumpkaboo Large Size",
+    "legendary": false,
+    "hp": 54,
+    "attack": 66,
+    "defense": 70,
+    "speed": 46,
+    "generation": 6
+  },
+  {
+    "_id": 784,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Pumpkaboo Super Size",
+    "legendary": false,
+    "hp": 59,
+    "attack": 66,
+    "defense": 70,
+    "speed": 41,
+    "generation": 6
+  },
+  {
+    "_id": 785,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Gourgeist Average Size",
+    "legendary": false,
+    "hp": 65,
+    "attack": 90,
+    "defense": 122,
+    "speed": 84,
+    "generation": 6
+  },
+  {
+    "_id": 786,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Gourgeist Small Size",
+    "legendary": false,
+    "hp": 55,
+    "attack": 85,
+    "defense": 122,
+    "speed": 99,
+    "generation": 6
+  },
+  {
+    "_id": 787,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Gourgeist Large Size",
+    "legendary": false,
+    "hp": 75,
+    "attack": 95,
+    "defense": 122,
+    "speed": 69,
+    "generation": 6
+  },
+  {
+    "_id": 788,
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "name": "Gourgeist Super Size",
+    "legendary": false,
+    "hp": 85,
+    "attack": 100,
+    "defense": 122,
+    "speed": 54,
+    "generation": 6
+  },
+  {
+    "_id": 789,
+    "types": [
+      "Ice"
+    ],
+    "name": "Bergmite",
+    "legendary": false,
+    "hp": 55,
+    "attack": 69,
+    "defense": 85,
+    "speed": 28,
+    "generation": 6
+  },
+  {
+    "_id": 790,
+    "types": [
+      "Ice"
+    ],
+    "name": "Avalugg",
+    "legendary": false,
+    "hp": 95,
+    "attack": 117,
+    "defense": 184,
+    "speed": 28,
+    "generation": 6
+  },
+  {
+    "_id": 791,
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "name": "Noibat",
+    "legendary": false,
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "speed": 55,
+    "generation": 6
+  },
+  {
+    "_id": 792,
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "name": "Noivern",
+    "legendary": false,
+    "hp": 85,
+    "attack": 70,
+    "defense": 80,
+    "speed": 123,
+    "generation": 6
+  },
+  {
+    "_id": 793,
+    "types": [
+      "Fairy"
+    ],
+    "name": "Xerneas",
+    "legendary": true,
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "speed": 99,
+    "generation": 6
+  },
+  {
+    "_id": 794,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "name": "Yveltal",
+    "legendary": true,
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "speed": 99,
+    "generation": 6
+  },
+  {
+    "_id": 795,
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "name": "Zygarde Half Forme",
+    "legendary": true,
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "speed": 95,
+    "generation": 6
+  },
+  {
+    "_id": 796,
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "name": "Diancie",
+    "legendary": true,
+    "hp": 50,
+    "attack": 100,
+    "defense": 150,
+    "speed": 50,
+    "generation": 6
+  },
+  {
+    "_id": 797,
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "name": "Mega Diancie",
+    "legendary": true,
+    "hp": 50,
+    "attack": 160,
+    "defense": 110,
+    "speed": 110,
+    "generation": 6
+  },
+  {
+    "_id": 798,
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "name": "Hoopa Confined",
+    "legendary": true,
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "speed": 70,
+    "generation": 6
+  },
+  {
+    "_id": 799,
+    "types": [
+      "Psychic",
+      "Dark"
+    ],
+    "name": "Hoopa Unbound",
+    "legendary": true,
+    "hp": 80,
+    "attack": 160,
+    "defense": 60,
+    "speed": 80,
+    "generation": 6
+  },
+  {
+    "_id": 800,
+    "types": [
+      "Fire",
+      "Water"
+    ],
+    "name": "Volcanion",
+    "legendary": true,
+    "hp": 80,
+    "attack": 110,
+    "defense": 120,
+    "speed": 70,
+    "generation": 6
+  }
+]
