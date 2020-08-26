@@ -11,27 +11,38 @@ def modify_pokemon():
         headers = reader.__next__()
 
         for row in reader:
+            # Truque secreto para mergear duas listas em um dict
+            # sendo uma de chaves e outra de valores
             pokemon = dict(zip(headers, row))
+
             pokemon["_id"] = int(pokemon.pop("#"))
 
             pokemon["types"] = [pokemon.pop("Type 1")]
+
+            # Caso tenha algum valor no "Type 2", adicionamos ao array "types"
             type2 = pokemon.pop("Type 2")
             if type2 != "":
                 pokemon["types"].append(type2)
 
             pokemon["name"] = pokemon.pop("Name")
+            # Convertendo o Legendary para boleano
             pokemon["legendary"] = True if pokemon.pop("Legendary") == "True" else False
 
+            # Apenas nos livrando de atributos que não vamos utilizar de maneira segura
             pokemon.pop("Sp. Atk")
             pokemon.pop("Sp. Def")
 
+            # Uma iteração para passar para letras minúsculas e converter
+            # para número inteiro.
             for key in ("HP", "Attack", "Defense", "Speed", "Generation"):
                 pokemon[key.lower()] = int(pokemon.pop(key))
             all_pokemons.append(pokemon)
 
+    # Gravando o arquivo novo, que vai ser importado pelo mongo
     with open("./data/pokemon.json", "w") as file:
         json.dump(all_pokemons, file, indent=2)
 
+    # Fazendo uma cópia simples do arquivo combats.csv
     shutil.copy("./pokemon/combats.csv", "./data/combats.csv")
 
 
@@ -46,6 +57,8 @@ def modify_netflix():
 
             movie["_id"] = int(movie.pop("show_id"))
 
+            # Convertendo para uma ISODate, forma recomendada de
+            # registrar valores de data no Mongo DB
             if movie["date_added"]:
                 time_struct = time.strptime(movie["date_added"].strip(), "%B %d, %Y")
                 iso_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", time_struct)
@@ -53,6 +66,8 @@ def modify_netflix():
             else:
                 movie.pop("date_added", None)
 
+            # Separando os valores de texto com vírgulas para os arrays
+            # As duas formas produzem o mesmo resultado nesse caso
             movie["cast"] = list(map(str.strip, movie.pop("cast").split(",")))
             movie["countries"] = [s.strip() for s in movie.pop("country").split(",")]
             movie["directors"] = [s.strip() for s in movie.pop("director").split(",")]
