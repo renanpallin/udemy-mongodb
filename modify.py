@@ -61,8 +61,8 @@ def modify_netflix():
             # registrar valores de data no Mongo DB
             if movie["date_added"]:
                 time_struct = time.strptime(movie["date_added"].strip(), "%B %d, %Y")
-                iso_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", time_struct)
-                movie["date_added"] = iso_date
+                iso_date = time.strftime("%Y-%m-%dT%H:%M:%S.000Z", time_struct)
+                movie["date_added"] = {"$date": iso_date}
             else:
                 movie.pop("date_added", None)
 
