@@ -1,4 +1,4 @@
-# Respositório de recursos para o curso de Mongo DB - Renan Pallin
+# Respositório de recursos para o curso de Mongo DB - Renan Pallin #
 
 O repositório consiste em duas bases de dados que são utilizadas no curso de Mongo DB.
 
